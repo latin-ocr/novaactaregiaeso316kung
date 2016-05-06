@@ -1,0 +1,55 @@
+EINE ELEKTRISCHE KOMPENSATIONSMETHODE GfC. 3
+
+statieren zu kennen. Die Streifen megen fibrigens so
+angeordnet sein, dass man einen elektrisohen Strom von
+beliebiger Stfirke durch den einen senden kann. Wird
+jetzt der eine der Streifen, z. Β. A, der Strahlung einer
+Welrmequelle ausgesetzt‚ wa'hrend B durch einen Schirm
+beschattet wird, so kunnen wir das Temperaturgleichge-
+wicht, welches durch die Witrmeabsorption von A gestbrt
+wird, dadurch wieder herstellen, dass wir einen clcktri·
+schen strom von passeuder Starke durch B sendcn. Wenn
+die Temperaturen gleich sind, so sind die Euergien, welche A und B zu-
+gefiihrt werden, einander gleich. Wenn l und l) die Liinge und die
+Breite der Streifen, r den Widerstand derselben und z· die Stromstkirke
+bedeutet, findet man also die von A absorbierte Wiirme gleich der durch
+den elektrischen strom hervorgebrachten oder also
+
+ 
+
+‘Ilb Ξ Ξῖ 7
+
+ 
+
+wo q die der Fliicheneinhcit zugefiihrte Strahluug ist. Hier-aus:
+
+7‘2'2
+
+4‚2 . lb
+
+ 
+
+q:
+
+Um die kleine unvermcidliche Ungleiehheit. der Streifen zu elimi-
+nieren, worden daun die Rolleu der Streifen vertauscht, indem also B
+beleuchtct und dor Strom durch A geleitet wird.
+
+Um einen Vergleich der beiden Methoden zu erleichtern, fiihren
+wir hier die Besfimmuugen an, welche bei jeder der beiden fiir eino.
+vollsfflndige Messung der Strahhmg nbthig sind.
+
+Die s'iltere Metlmcle. ἵ Die neue slsetltode.
+
+Der Differentialpyrheliomcter. , Die Kompensationemethode.
+
+A. Vorlc'z'zcfiye Konstmztenbesstimmunyen, welche ein fiir allemal azcsyefe'llzrt
+werden mz'lssen:
+
+1. Bestimmung des Wasse1-wer-¹ 1. Bestimmung des elektrischen
+thes der Kalorimeterpla‘tten. Leitungswiderefandes der Strei-
+fen. ⁷
+
+2. Bestimmung dor Absorptions- ’2. Bestimmuug der Absorptious-
+fliiche. Hiiche.
+

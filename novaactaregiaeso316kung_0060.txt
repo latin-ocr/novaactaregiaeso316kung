@@ -1,0 +1,46 @@
+28 MATTHS FALK,
+
+Bei der von Herm WEIERSTRASS gegebenen Herleitung ¹) der in den
+Gleichungen (40), (42), (57) und (58) enthaltenen Transformationsmethode
+wird vorliiufig angenommen, dass Este) vom 4ten oder 3th Grade ist. Aus
+dem hier gegebenen Beweise derselben Methode geht ohne weiteres her-
+vor, dass sie jedenfalls anwendbar ist, wem] der Grad von RQ) 1ιὸσή-
+, stem· = 4 ist, und die Gleichung
+
+(⁶20) RQ> = 0
+
+mindestens eine einfaohe Wurzel besitz‘t, wobei jedooh ausserdem still-
+sohweigend angenommen wurde, dass RQ) einen von Nun verschiedenen
+endlichen Werth besass. Eine einfaehe Ueberlegung zeigt jedoch, dass
+die WfflERSTRAss’sclzo Transformatz‘owzsmetlzode stets anwenclbar ist, wevzn
+RQ) eine von Null versclzz‘edene Constante oder eine qaum rationale Fune-
+tion von x ist, deren Grad lzb'clcstens = 4 ist, wobei nur die einzige Bedin-
+gung hinzuzufiigen ist, dass die ilbrz'syens willlcnrlz‘dce Grffsse „vo keine
+melzrfaclze Wurzec der Glez'clzuny (20) sein (Iatf.
+
+IX.
+
+SCHLUSSBEMERKUNGEN.
+
+Der Ausdruck (l) ist bei der Definition der elliptisohen Function
+zweiten Grades als der urspriingliohe anzusehen, weil daraus die Eut-
+artungen vollstz'indig hervorgehem er ist aber nur in dem Faue durch
+den Ausdruck (8) ersetzt worden, wo 33 sich um die Herleitung der
+Diffzerentialgleiohung der elliptischen Functionen zweiten Grades handelte.
+
+Das anscheinend [iberrasohende Resulta‘c, dass aus der Gleiohung
+(8) die Entartungen nicht vollstssmdig hervorgingen, erklkirt sich daduroh,
+dass wir bei deren Herleitung aus (8) die beschrfinkende Annahme ge-
+macht haben, dass uo, A, B, A', B' von den Perioden der Function
+5000) unabha‘ngig sein sollten3 1ἐὶ3313 man aber (11333 Β33311Γὲὶῑ1κ1111ἕ weg,
+so miissen selbstverstssindlich die Entartungen auch aus der Gleichung
+(8) vollsta'udig hervorgehen.
+
+ 
+
+ 
+
+l) Da (11333 Herleitung von der Theorie der go-Function unabhiingig ist, hat
+Herr XVEIERSTRASS sie auch clazu anwenden kbnnen, die go-Funetion aus der Diffe-
+rentialgleichung herzuleiten.
+

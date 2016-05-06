@@ -1,0 +1,42 @@
+14 MATTHS sz,
+
+Es ist also jetzt in allen denkbaren Fffllen sowohl die Existenz
+einer analytischen F unction :v von u naehgewiesen‚ welche der Gleiohung
+(16) Genfige leistet, wie auch fiir jeden Fall eine Methode gegeben, den
+allgemeinen Ausdruck dieser Function zu finden.
+
+V.
+
+ZUSAMMENFASSUNG DER RES ULTATE.
+
+Die Ergebnisse der in den Art. ὃ und 4 auseinandergesetzten Un-
+tersuehungen kennen folgendermassen zusammengefasst werden:
+
+Jede ecliptiselze Fzmction α] zzceiten Grada< lez'stet einer Dzfferential-
+‚oleichngy 2707] der Form
+
+du = -κέ-αγ
+
+VROE
+(jemlye, wo Mac) eine grance rationale Funetimz, deren Grac! lebclzstens ylez'ck
+4 ist, oder eine υοη Null versclziedene Constante bedeutet; und umgekehrt
+ist auch jede analytiselze Functz'ooz as, welche einer solehen Differentialyleiclmmy
+finum, eine elliptz'selze szction zwez'ten Grades.
+
+Die Gesammtlzeit der elliptz'sclzen Fzmetioozen zwez'ten Grades bildet
+eine yenau abgyesonderte Classe derjenigyen Functioneu von u, welche uberali
+im Endlz'elzen den Clzaralcter rationaler szctz'oneoz besitzem und zwar unter-
+schemen sich die Fssmctz'onen dieser Classe von allen ilbw'z'yen durch die Eifflm-
+sebast, class sie einer Dzjfferentz‘alqleo'cssung] von der eben flevzannten Form 96-
+nu'qeoz.
+
+VI.
+
+HERLEITUNG GEWISSER EIGENSCHAFTEN DER ELLIPTISCHEN FUNCTION x
+AUS DER BESCHAFFENHEIT DER WURZELN DER GLEICHUNG (20).
+
+Wir wellen jetzt den Zusammenhang zwisohen der Beschaffenheit
+der Wurzeln der Gleiehung (20) und gewiseen Eigensohaften der ellip-
+tisohen Funetionen zweiten Grades naehweisen, und zwar indem wir fol-
+gende Skitze beweisen, niimlich:
+

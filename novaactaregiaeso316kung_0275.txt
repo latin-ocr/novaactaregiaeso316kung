@@ -1,0 +1,47 @@
+Sur< L'EVALUATION APPROCHEE DEs INTEGRALES DEFINIES SIMPLES. 33
+
+ΤΙιέονὲφηε X. Si Z’on (le'siyne par f(x) une fonction finie et continue
+de la variable x dans l'intervalle
+
+-lgxssl,
+
+et par n un nombre entier positis ou nul, on aura la' formale approximative
+
+f ,γ’(χῃίῖῖᾗιῖω = . EI ἶ, k}sin2‡⁶²‡f (eos wff'ffl) ·
+-l n -ξ- l k=1 ⁷² -1- Ῑ
+
+Supposons‚ que la fonction f(x) soit dffiveloppable en 86ῑί6 oon-
+vergente pour — 1 Ξ x Ξ 1, de sorte que l'on ait
+
+(195) f(.2·)=c0÷c71oe÷c2<c2403oe³÷....‚
+
+l’erreur A„ qu'on commet en faisant usage de la formul& d'approximation
+sus-dite, sera donncsee d'apoes 16 ῖὴὲοτὲῑηθ ΠΙ par l’efigalite‘*
+
+(196) a„ Ξ
+
+cr K. ⁷
+
+m}
+
+οὺ les quantit& K sont dffiterminsses d'aprbs les &quations (173) et (176)
+par la formule
+
+(197) Κ, = 2-”s1v1-‘.⁷·²S„(oe)Qf(x)cl.2- ,
+
+en dezsignant par Q„(x) 16 quotient obtenu en divisant la puissanee ,τ’
+par 16 polynssme du „seme degre'v 2·⁷¹S„(2-) . Pour 163 nombres entiers r,
+qtii satisfont aux in6galite'3s
+
+(198) ηξ’)·Ξ2η-1 ‚
+
+16 degn} du polyussme Qrspc) sera §videmment inffirieur ou &gal ἐι n - 1 ,
+et en appliquant la formula (118) au second membre de l’6qnation (197)
+nous en ddwiuirons
+
+(199) ΚΤ = Ο
+'pour ees valeurs du nombre r, et il s’ensuivra de l'e'-quati0n (196)
+(200) A„ = Ξ 0,ss .
+
+Nova Aeta Reg. Soc. Sc. UPS. Ser. 111.
+

@@ -1,0 +1,51 @@
+2 O. V. L. CHARLIER‚
+
+1) Uber das Bild eines Punktes bei dem Gang des Lichtes durch
+eine beliebige Zahl centrischer Linsen.
+
+2) Uber die zweokmiissigste Wahl der Krfimnmngsradien, der Bre—
+chungsindices, der Dicke und der Abstiinde der Liuseu, um megliohst
+gute Bilder zu erhalten.
+
+3> Uber die photographischen Bilder von Sternen.
+
+Die vorliegende Abhandlung ist als eine Vorarbeit zu diesen
+Untersuehungen anzusehen. Dieselbe beschaftigt sich ha'uptsiiohlioh mit
+der Herleitung der Gleiohung fiir die Aberratimskmw, einen Begriffl den
+ich sogleich niiher definieren werde.
+
+Wir denken uns ein System von husen, deren brechende Flfichen
+Sphaeren sind7 deren Centra siimtlich auf einer gel-aden Linie, der
+Achse des Systmns, liegen. Durch deu Seheitelpunkt der ersten dieser
+Fffichen denken wir une eine Ebene gelegt — Fundamentalebene genannt
+—- senkreeht zur Aehse⁷ in welcher Ebene ein Kreis gezogen wird mit.
+einem beliebigen Radius κ und mit dem Centrum in der Achse.
+
+Betraoht-en wir dann siimthche Stlehlen, die, von einem gegebeuen
+Punkt ausgehend, vor der Breehung durch den bet-reffenden Kreis gehen,
+8ο werden dieselben, nach der Brechung·‚ in einer beliebigen, zur Achse
+senkrechten, Ebene eine Kurve erzeugen.
+
+Diese Kurve werden wir die Aberratz'onscmve fiir den Radius κ nennen.
+
+In Bezug auf diese Kurve habe ich folgende Eigenschaften ge-
+funden:
+
+Dieselbe ist eine algebraisohe Kurve vierteu Grades vom Range
+Null. Die Koordinaten lassen sich durch trigonometrische Funktionen
+von folgender Form darstellen
+
+y = (μο -1-μι Sin φ) Cos φ
+z = λ0 4- λΙ cos (ρ 4- λ2 0082 (ρ,
+
+wo φ einen Winkel in der Fundamentelebene bezeiohuet, zwischen der
+J! - Aehse und dem zum einfallenden Strahl gezogenen Radius vector.
+
+Die suns in den obigen Formeh] vorkommenden Grbssen λ und μ
+sind von den Konstanten des Linsensystems und von der Lage der Bilde-
+bene abhiingig. Durch die Werthe *der genannten ftinf Grbssen wird die
+Giite der Linsenkonstruktion bedingt.
+
+Ich bemerke noch, dass die Behaudhmg des Problems durch die
+Einfiihrung gewisser Gr6ssen-, die. ioh optisohe Invarianten oder kurz
+

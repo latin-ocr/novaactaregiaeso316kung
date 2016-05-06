@@ -1,0 +1,54 @@
+22 ν ’ GoRAN DILLNER,
+
+ 
+
+Ι du¹=F1(0‚u¹‚u2,...),
+(l θ
+(57) Ι Q=F2(O,ul‚u2,...)‚
+d θ
+les premieres ddrive'es de tous les arguments elliptz'ques u1 '⁷²⁶2 ‚ . . . par rap-
+
+port ὰ θ ¹e'z‘am‘ par suite eonnues. ,
+
+Nous appelerons θ ανφιφηεηΐ elliptique principal‘ ou brievement ar—
+yament principa, et ul, αἳ ‚ . . . aoyuments elliptiqzces ddpendants.
+
+De cette maniere on reduira les 3(N* 1> equations distinctos du
+mouvement relatif (13) ἐι 6(Ν-- 1) equations differentielles simultanees
+de la forme (57), 16 nombre des arguments elliptiques dependants
+ul, αἳ, . . . etant en tout 6<N- 1).
+
+23. Les integrales du systeme (57), puisqu'il est- toujours pos-
+sible de former les derivees successives des arguments u17u2‚ . . . par
+
+rapport ἐι θ, prendront, pour un cerole de oonvergenoe convenable, cette
+forme ordinaire„
+
+ 
+
+ 
+
+ι ul = 2⁶2⁰) -†- (31:9¹)0OE * θο) ’1“ ’ · ” ”’
+(58) Ι 2⁶2 = 152⁰) -Ι- (ZZZ) (θ - θο) “1“’ · “ ’
+0
+
+ 
+
+οὺ αξυ), 205⁰> ⁷ . .. representem les constantes d'integration et (ἱεῖς) ,
+· 0
+
+ 
+
+ 
+
+((Ξζῗῗ) , . . . les valeurs des derivees {lg—¹- η ((1ίίἑῖ a · · · pour θ = θο· D‘WC’
+v0
+
+e'tcmzt en tout 6(N ,- 1) aryuments elliptiques dependam& de θ, il y α’ le nombre
+ἐμαί cla de constantes d’inte'ymtion.
+
+24. De ce qui precede nous voyons que les trois eoordonnees
+cle chaque corps dependent de θ et de 6 arguments elliptiques qui
+s'esspriment par des series convergentes oontenant 16 nombre legit-ime
+de 6 constantes d'integration.
+

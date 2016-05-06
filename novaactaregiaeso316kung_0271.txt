@@ -1,0 +1,37 @@
+SUR L’EVALUATION APPROCHI'OE DES INTEGRALES DEFlNIES SIMPLES. 29
+
+Dans 16 eas, οὺ χ’(χ) est une fonction entiere et rationnelle de υτ,
+dont. le degre est inferieur ou egal ἐι 2η- 1 , les ooefficients 62η, cwd,
+c2‚,42 ‚ . . . s'annuleront· d’apres I'equation (162), et par suite nous obtien—
+drons de l'equation (167)
+
+(168) a„ = ο .
+
+Τήέονὲοηε ΙΧ. La formale approoeimative du the'oreme VIII donne
+un re'szcltat exact pour toute fonction entim et rationnezle f (x), dont le deyre'
+est infe'rz'eur oa ἐμαί ὰ 2η- 1 .
+
+Le theoreme VIII donne pour η = 1, 2, 3, 4 les formulas ap-
+proximatives suivantes.
+
+(169) l* {Q} = πίω) ,
+
+ 
+
+ 
+
+ 
+
+ 
+
+Soit η un nombre entier positis] et substituons dans Ie theoreme ΙΙ
+
+ 
+
+(173) (ιε-1, b=1, φωεῡω-νέ
+
+et
+
+(174) Q Ξ 005 „AEL
+η -f- 1
+

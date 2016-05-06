@@ -1,0 +1,60 @@
+SUR L⁷EVALUAT10N APPROCHEE DES INTEGRALES DEleEs SIMPLES. 15
+
+ΟΠ
+2 lc - 1) Ξ (- 13¹¹‘*1'(k·)1'1(22— 10 ÷ 1) ·
+
+2η η
+
+(77) F'(
+
+ 
+
+ 
+
+Par application des &quations (73) et (77) a l'&quati0n (72), nous
+en obtiendrous
+
+(- 1>n-¹e ¹(2n.17—l)(2noe—3) . . . (mc-2⁷24 1)
+(⁷8) ΑΚ· ² 2⁷¹-1I'(le) Γ(η - sc ÷ ms„ 222oe 4352„ss 1 ’ Ξ
+
+ 
+
+(Ζῶ1 ⁷
+
+et des &quations (71) et (78) msulte le thdoreEnoe suivant.
+
+Tlce'orbme VI. Soit ΠΧ) zm& fonction firzz'e et continue (Ie ἰα variable
+x dans l’z'ntervalle
+
+Ogssgl,
+
+et de'sz'ynons par n zm nombre entier positis qaelconque, οη aura la formale
+approaeimative
+
+ 
+
+οἲι les coesflcients A1³ sont domze's par· la formul&
+
+ 
+
+ 
+
+4 Ξ (—1)⁷²‘'‘ “¹(273m —7 1)(Ϋ2Ϋῃψ3,1 - 3). . ,(ξηω - 23] -Ι- 1) (l U
+‘¹' 2⁷¹—¹I'(lc)s(72—k-†-l) ο Ξηω-Ξκεῆιῑ ‘ '
+
+Supposons‚ que la fonction f(x) soit d&veloppable en sein-ie con-
+vergente pour O Ξ ΚΒ Ξ 1, de sorte que l'on ait
+
+(79) s(x) = 00 -1- 61]) -Ι- 62:12² -ἱ- 03503 -†- . . .. 7
+
+et dc-'Jsignons par A„ l'erreur oommise en employant la formule d'approxi-
+mation ci-dessus, nous aurons confor1n&ment au the'sorfflne ΠΙ
+
+(80) a„ = Ξ Κ, ,
+
+οὺ les quantite's ΚΤ sont defite1·min‹5es par la fdrmule
+
+(81) ΚΓΖ ζ’(ω-ῇηῶ-ῆ) . . . . (³³32ss 1) Qr<oe>czae 2
+
+ 
+

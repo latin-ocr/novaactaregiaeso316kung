@@ -1,0 +1,46 @@
+20 GoRAN Dmmnn,
+
+on Fl et F2 sont des fonctions connues. Donc enfin on tirera de (50),
+en integrant, les arguments u, et u2 en fonctions de l'argument α avec
+16 nombre legitime de deux constantes d⁷integration. Dono, la fonction
+R, faisant des oscillations isochrones en α entre les limites vari-ables p
+et q [(43), (44)], est completement determinee par la connaissance des
+arguments ul et u2 en fonctions de α.
+
+Τ6116 est en traits principaux la marche analytique qui conduit⁷
+au moyen (16 l’identite elliptique (28), ἢ la solution d’une equation dif-
+fer-entielle du second ordre, de la forme generale (48), par l⁷integration
+de deux equations differentielles simultanees du premier ordre entre les
+trois arguments elliptiques a, ul et 2⁶2 de la fonction ff ¹).
+
+V. INTEGRATION DES EQUATIONS DU MOUVEMENT RELATIF AU
+MOYEN DE SERIES OONVERGENTES.
+
+Determmatz'on des arquments ellz'ptiques dependants en fonctions de
+
+l’arqument princzpal.
+
+22. Soient les trois coordonnees d'un corps representees par les
+fonctions elliptiques ἐι trois arguments Εζα, ul, u2), ἱέζβ, vl, 112), Ἧῖζγ, w„ 202)⁷
+on les trois constantes e, E, ln· (16 la fonction R ont leurs correspon—
+dances dans les trois constantes f, F, l et 9, G, m des fonctions
+respectives 8 et 93³, toutes ces quantites jouissant de memes indices que
+les coordonnees3 alors, en mettant une des 3(N- 1) equations distinctes
+du mouvement relatif (13) sous la forme [(48)]7 cette equation s'ecrira de
+1η mamere suivante7
+
+(Fff —
+«ῑίῐῖ -“
+
+ 
+
+(51) s·<e‚<3,ffit‚...>‚
+
+la fonctions contenent tontes les coordonnees du probleme.
+
+1) Les identites elliptiques 111 (195) et ΠΙ (180), ῑι (ιι -ι- 1) variables inde-
+pendantes, traitees d'apres· la meme methodo. que l'identite elliptique (28), s'applique-
+rant generalmnent 31 la solution des &quatrions differentielles respectivement d’ordre ιι
+pair et d'ordre ιι impair, le nombre des constantes d’integration etant ιι ou egal ῖι
+volui des arguments elliptiques ιι, , . . . , 'nn .
+

@@ -1,0 +1,70 @@
+ΜΕΜΟΙΒΕ SUR LA sonoTloN ANALYTIQUE DU PROBLEME Des N conps. 19
+
+generalement representer une coordonnee, les limites variables depen-
+, dan‘t- des liaisons analytiques entre les trois arguments elliptiques
+α, u1‚u2 ¹).
+
+Applicat-em ιὶ l’e'quatz'on dffdrentielle du second ordre.
+
+21. Eu egard ὲ. la condition (45), la fonction 5? dans (42) et ses
+
+deux premieres derivees totales »εἶ-’ἢ- et <2²st dans (46) et (47) ne con-
+
+da cla
+tiennent que deux variables independantes, ἐι savoir α et une des deux
+variables zcss, ((2, la variable u3 etant eliminee au moyen (16 (38) et (41).
+Dono, si l’on propose une equation differentielle du second ordre, trans-
+
+ 
+
+Ζ
+
+. formee au moyen de (40) ὰ forme elliptique,
+
+ 
+
+ 
+
+ζεῖεω( ῑῑῐῑ),
+f represent-emt une fonction analytique queloonque de α, R, ff 7 et
+que l'on porte dans cette equation 168 expressions elliptiques de a [(40)].
+
+de εἳ [(42)]‚ de (ἐξ [(46)] et de ⁶²²5}
+
+ί α
+
+ 
+
+[(47)], il en proviendra une equa-
+
+ 
+
+ 
+
+tion differentielle lineaire entre les derivees ‘551¹ et ff sous cette forme.
+(49) ΣΒ) ΨΦ») ‘Q = Ρςα, αι, αἳ) ,
+r=1 l — (az—3) a doc
+
+la fonction F etant de forme connue. Cette equation combinee avec
+(45) donnera les deux e‘quations differentielles simultanees
+
+ 
+
+Ι ZZZ = F¹(a, ul. αξ) ,
+
+(50)
+
+ 
+
+1 dm = F2(⁰‘7 ΠΗ ²⁶2) ν
+
+cla
+
+ 
+
+l) La methodo mdvie ei-dessus n’exclut pas la possibilite d’employer, au lieu
+(les fonctions de la forme (42), d'autres fonctions convenables, ὲ trois variables inde-
+pendantes, pour representer les coordonnees.
+
+Nova Aeta Reg. Soc. Sc. Ups. Ser. ΙΙΙ. 3
+

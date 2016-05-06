@@ -1,0 +1,44 @@
+UBER DEN GANG mss Lxcfl‘rns DURCH Ε1Ν 81“8ΤΕΜ VON SPHAEIHSCHEN LmsssN. 3
+
+Invarz'anten nenne, viel an Ubersichtliehkeit. gewonnen hat. Dieselben
+sind gewisseFunctionen der Bestimmungsgrtissen der Strahlen und (108
+Breehuugsvermbgens (108 Μο(11111118, Functionen, welche bei den] Durch-
+gang des Strahles durch eine breehende Flziohe unverandert bleiben. Es
+ist offenbar, dass man durch Anwendung soloher Grbssen viel an Einfaeh—
+'heit gewinnt, da hierdnrch die Hauptuntersuehung somit auf die ein-
+130110 Betrachtung des VVeges des Strahls von einer Flache zu der naeh-
+Sten beschrfinkt wird.¹
+
+Wir werden uns folgender Bezeiehnungsweise bedienen. Den
+versehiedenen sphiirisehen machon, welche die breohenden flffedien
+trennen, geben wir die Indices Ο, l, ..., i, . . . n, 80 dass die Flssiehe
+Null die erste, die Fliiche mit dem Index u die letzte der brechenden
+Fliichen bezeichnet. Eine jede 61Γὸ880 wird nun nach (1108011 ἙΙέἰο1101]
+indieiert und zwar 8ο, dass eine Grbsse ιᾳ, die von den] zwischen der
+Flfiche 2‘-1 und (101· Ρ1ἑ10110 z' gelegenen Medium abhiingig ist, mit. (¹⁶57,
+also Index i links oben von gs, bezeichnet wird, dagegen die entspreohende
+(hesse in dem niichsten Medium mit yffi, also Index z'reelats oben. Wird
+aber eine Gresse lz bei dem Durehgang (108 Str-ables durch die Flachez'
+nicht Veriindert, 80 dass also “Ut = W), dann benutzen wir entweder
+eine von diesen Bezeiehnungen oder schreiben statt ihrer lli, also Index
+i reohts umen. Eine Grbsse der letzten Art ist. offenbar z. B. der Radius
+der brechenden Flfiohe i3 derselbe wird deswegen mit 9„- bezeichnet.
+Solche Gressen sind ferner die oben genannten Invarianten ete.
+
+2. Wir betraehten nun einen Liehtstrahl auf seinem &Vege durch
+die 2⁷³ Flfiehe. Die Gleichung derselben vor dem Durchgang durch (110
+Ὲ1ᾔο110 80111011)οῃ wir unter der Form
+
+gs = (η’ <s — N..) ÷ offla
+
+< > Z Ξ (ι’)(Ι (ae — AVf) ,Ι- Qtfflsv
+eine Sehreibweise, die der Gaussischen vorzuziehen ist. Hier bedente‘t
+N„ wie bei (huss, die x — Koordinat.e des Scheitelpunkts der trennenden
+Flache und 9,- ihr Kriimmungsradius. Nach dem Durchgang wird die
+Gleiehung des gebrechenen Strahles geschrieben:
+
+(Ῑ)
+
+y = PU) (λ’ -- [Vs] -1- Θι· ²⁶
+ε = (Γ) (ar — N) ψ 91< θ’),
+

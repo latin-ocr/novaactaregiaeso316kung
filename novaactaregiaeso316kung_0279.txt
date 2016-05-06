@@ -1,0 +1,46 @@
+Stm L⁷nVALUAT10N APPROCHEE DES INTEGRALES DEFINIES smpmzs. 37
+
+Le polynssme Pm(x) etant du mffim‘³ degne, toute fonction entiere et
+rationnelle G„(ae) du reme degre pourra evidennnent se mettre sous la forme
+
+(224) Grec> - Σ ames> 2
+
+Π
+
+οὺ les coeffieients am sont des quantites constantes. On en tire
+
+1=
+
+(225) j Gr<ae)1³„(w><1oe εἴ amf Ρ,,,(1;)Ρη(1)ς121 .
+-1 , 0 -ι
+
+n=
+
+Gela etant7 supposons que O Ξ r Ξ n— 1 . En appliqnant la for-
+mule (222) ὲ l'integrale definie‚ qui se trouve dans le second membre
+de Fequation (225), nous en obtiendrons la formule
+
+(226) f θν(ι-)ΡΠ(1-)ᾱιυ = 0 ,
+
+qui subsiste pour toute fonction entiere et rationnelle (RQ), dont le
+degre r satisfait aux inegalites
+
+(227) ossrgn-l.
+
+ξε).
+
+Substituons dans le theoreme ΙΙ
+(228) a=-l‚ b=l, <p(„z-)=l,
+
+et y remplagons la fonction f(x) par
+
+f (ff-E f* A: ÷ (ἑὲ-ζ) ,
+
+οὺ α et β designent deux quantites constantes, differentes entre elles3
+soient de plus „cl , x2 ‚ . . . z„ les η recines de l'equation
+
+229) P„(„1.-) = O ‚
+HOUS aUPODS
+
+(230) Νι) = ἐξ (x — m)
+

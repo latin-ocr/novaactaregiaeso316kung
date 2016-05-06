@@ -1,0 +1,50 @@
+4 A. Bmem,
+
+formule qui subsiste pour toute fonction entiere et rationnelle f(a;)‚ dont
+16 degre est au plus ega} ὲ η- 1 . Dans les eas, 011 16 degre de la
+fonction μσς) est inferieur ou egal ἐι n a 2 7 nous en deduirons la formule
+
+(12) ’ἶ 1111) = O .
+
+ 
+
+§2
+
+Nous appliquerons les resultans, obtenus dans le paragraphe pre-
+cedent, ἐι l'evaluation approchee des integrales definies simples. Ρο1111
+66 but nous supPOSOUS, que l'integrale donnee soit mise sous la forme
+
+(m) fibwflem‚
+
+nn les limites α et b sont des quantites 1661166, finies ou infiffles, satis-
+faisant a l'inegalite
+
+(14) a < b ,
+
+et 011 f(b) designe une fonction de a: finie et continue dans I'intervalle
+
+(15) a
+
+ΙΙΛ
+
+b ;
+
+J)
+
+ΗΛ
+
+quant& la fonction (pez) nous n'imposerons pas ὲ celle-ci d’autres con-
+ditions⁷ que les integrales definies
+
+(m) jbfflffmm‚vsfflmfflmm‚
+
+on θῇ) est une fonction entiere et rationnelle quelconque, aient des
+valeurs finies et bien determinees.
+
+Pour obtenir une valeur approchee de l'integrale (13) nous y
+remplacerons la fonction f(oe) par une autre fonction f1(oe)‚ qui s'approehe
+tant que possible a la fonction ιβᾲισ) entre les limites d'integration α et b.
+A eet effet nous choisissons η ᾳηᾶῌϊίῐρε, differentes entre elles,
+
+χχ, AE27-...212n7
+

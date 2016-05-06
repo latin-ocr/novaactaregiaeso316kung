@@ -1,0 +1,49 @@
+MEMOIRE SUR LA SOLUTION ANALYTIQUE ου PRossLissffi DEs N cosps. 3
+
+Ι. ΕρΠΑΤΙΟΝε DU MOUVEMENT.
+
+1. 11 y a deux classes des equations du mouvement, celle des
+equations du mouvement absolu et celle des equations du mouvement
+relatis, l'origine des coordonnees etant, dans 16 premier cas, un point
+fixe ou 16 centre de gravit& des N corpe, et, dans le second cas, un des
+N corps.
+
+Equatz'ons du mouvement absolu.
+
+2. Soient M, , . . . , MN les N col·pS‚ consideres comme des points
+geometriques‚ et ml ‚ . . . ‚ my leurs messes respectives; soit de plus R„
+le rayon vectem, allant du corps ΜΓ au corps MS, dont les projections
+sur trois directions orthogonales fixes soient designees par 22¹„7ymZ1-52
+alors on aura les identites suivantes,
+
+1 '
+
+(1) »ι 3! 2-9 7
+
+et Ν- ⁷
+J W=÷‚
+
+(2) yr=2srp÷3sp
+1 ww
+
+les coordonnces ἐι l'indice rr etant par suite nullos.
+La somme des N masses soit designee
+
+(3) σ = m¹ -ι- . . . -4- ⁷⁷23· .
+
+En designant par P„ 16 rflyon vecteur allant du centre (16 gravitr}
+
+des N corps au corps M„ et par 5„ qr, Z„ ses projections sur les trois
+directions ‘orthogonales fixes mentionnees ci-dessus. on aura entre ces
+
+deux systemes de ccordonnees les relations suivantes,
+
+ι ξ, - ξ, = ων, ‚
+
+<a z„
+'bs—'br = ΖΝ 5
+
+· (4) - l ⁷1³— η, = 3] ,
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΠΙ.
+

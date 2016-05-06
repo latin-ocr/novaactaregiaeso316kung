@@ -1,0 +1,42 @@
+SUR L'I'SVALUATION APPROCHEE DES INTF'JGRALES DEFINIES SlMPLES. 13
+et des &quations (59) et (60) nous conclurons
+
+(61) Κ,ι = (— 1)⁷¹K„ .
+
+Si n est un nombre impair‚ on en tire
+
+(62) K„ = O ,
+et, par οοῃεὸᾳῃθῃῒ, on aura dans ce cas d'aprbs la formule (56)
+
+(63) Δη = Ο .
+Nous &sumons ees &sultats dans le ῑὴόοῑὲωθ suivant.
+
+lee'orbme V. La formale approximative du the'orme IV donne ιιη
+re'sultat exact pour toute fonction entibre et rationnelle f(x)‚ dont Ze deyre'
+est infe'rieur ou e'yal ὰ n - l ‚ et encore pour toute fonction θητίὲτᾞ et ration-
+nelle ΗΧ) du nieme deyress sin est un nombre impair.
+
+Pour η = 2 , 3 , 4, 5 on d6di1it du th<ssorbme IV les formulas ap-
+proximatives suivantes.
+
+(64) s 1ϊωᾱω = ἐγω) ÷ 3f<1> ,
+
+(66) (ωψσε-[(662 gsl{)÷} s<1>
+
+(66) ν,1]“(α«-)6«ιεεψ]·(6)ΞΛΜΛΞΜ-ω),
+
+&U AE}(dhs—ffffi†45 (Dff Μ) ᾖε
+
+ 
+
+)÷ ÷9⁷0f<1)
+
+ξι(
+
+Dans oe paragraphe nous dffluirons du thessorbme ΙΙ une autre
+formule d’approximation, dans laquelle les valeurs interpoffies χι ., „1³2 ‚ . . . 1„
+forment une progression al·ithme}tique comme dans la formule de NEWTON.
+Supposons que η Ξ l, et. substituons
+
+(ω) a=0‚b=1‚fflm=1
+

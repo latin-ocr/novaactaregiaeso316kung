@@ -1,0 +1,56 @@
+Sur< L⁷12JVALUAT10N APPROOHEE DES INTEGRALES 66616166 SIMPLES. 3
+
+On peut· conclure de 66 1116016616, que l'equation
+
+(7) f1(oefx))—( )=0
+
+sera satisfaite par les η quantites
+
+(8) w=x1'‚:c=9c2,--··oe=xn·
+
+En supposant‚ que la fonction (106666 f(ae) soit une fonction en-
+11616 et rationnelle de sc, dont le degre soit. p1us pet-it ou ega] ὲ, 6-1,
+16 premier membre de l'equation (7) sera aussi une fonction entiere et
+rationnelle, dont le degre ne surpasse pas n- 1. Mais puisque cette
+fonction s'annule pour les η valeurs (8), il faut, qu'elle soit identique—
+ment nulle, et par suite la fonction f1(x) sera identiquement egale effac),
+66 qui (1661011116 16 6010116116 suivant.
+
+Corollaire. Soit n un nombre entier positis quelconque7 et f (X) une
+fonction entiere et rationnelle‚ dont le deyre' est plus petit ou {eal ὰ 6 -1;
+de'sz‘ynons par
+
+21 7 Ι.
+n quantite's differentes entre elles, et fai-§0723
+
+Fe> = (π - πε) (π - πε) - - - . (.,,- - πη) ,
+
+nous auron& identiquement
+
+ 
+
+ 
+
+f(·⁷>=j{=1”}5{f{>· ΡΞ) .
+
+Substituons dans cette 1616111116
+(9) f& = F '(oe) ⁷
+
+66 qui 661 permis, puisque F'(ae) est une fonction 6611616 et rationnelle
+du (η - lym degre, nous en obtiendrons la formule 60116116
+
+ 
+
+ 
+
+(10)
+
+En divisant les deux membres de la meme identite par oe'¹*¹ 61 611
+faisant 6101116 x vers l’infini positif, nous 611 11161066
+
+ 
+
+ 
+
+(11) {im f( εξ Αἲξ) ‚
+

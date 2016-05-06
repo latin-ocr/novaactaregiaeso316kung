@@ -1,0 +1,40 @@
+0
+MEMoan SUR LA soLUTmN ANALYTIQUE DU PROBLEME DEs N cossps. 23
+
+Oscz'llatz'ons isonia-ones des coordonne'es en l'arqument prmczpal.
+
+25. La fonction lineaire α de θ etant donnee dans (54), il s'en-
+suit que, pour les valeurs θ = 6(⁰’ et θ = 0¹¹> correspondantes aux valeurs
+respectives α = 2mK et α = (2m ÷1)K(m = Ο ‚ ss 1 ‚ss 2, . . .), on aura
+la differenoe
+
+(59) θα) -. θω) = ἓ ,
+θ’θεῑ-ὲ-ἁίτθ que les oscillations cle la fonction R entre ces limites p et q
+[n0' 20] sont isoclzrones en θ.
+Le meme vaut pour toutes les coordonnees representees par les
+
+fonctions Q ‚ ffll , . . . analogues ὲ R.
+
+VI. SOLUTION DU PROBLEME SOUS FORME FINIE, L'ARGUMENT
+PRINCIPAL ETANT Pffls POUR VARIABLE INDEPENDANTE.
+
+Equations de'pourvues de toute dzffe‘rentielle et contenant le nombre dzz
+
+de constantes d’mtefqration.
+
+26. La derivee ‘ji—‘3 etant eonvenablement determinee en θ, les
+Vtrois equations des aires (55) et l'equation des forces vives (56) livrent
+
+ces quatre e'quations de'pourvues de toute dzffe'remz'elle,
+
+(60) (ἧς = X<0> = 1⁷02> = Z<0> = F(0)÷ ,
+
+οὺ efferent, hors de l'argument principal θ comme variable independante,
+les 6(N- 1) argyuments elliptiques de'pendants ul ‚ u2 ‚ . .. avec le mssme
+nombre da de constantes d'inte'yration uslffl, ulf) 7 . . .‚ lesquelles sont les
+valeurs de αι, αἳ , . . . pour θ = θο [(58)]
+
+La determination convenable de la derivee (ΓΖΤζ en fonction de θ
+
+soit representee par la formale
+

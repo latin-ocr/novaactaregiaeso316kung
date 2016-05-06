@@ -1,0 +1,39 @@
+1.
+
+DEFINITION DER ELLIPTISCHEN FUNCTIONEN ZWEITEN GrRADES.
+
+Es seien 200, 2w‘ zwei gegebene von Null verschiedene Grbssen,
+Ι
+
+nur der Bedingung unterworfen‚ dass der reelle Bestandtheil von ᾗ,
+einen positiven Werth haben soll. Bildet man dam] in bekannter W eise ¹)
+die Function σ(ῖι[ω, ω’) , die. einfach mit σζῑι) bezeichnet werden mag,
+
+und setzt
+
+(1) π] = C σω T αι) “VQV- aL) ,
+σω - ὁι)(ῑ(’ῑι - 02)
+
+wo C7a1, ‘¹2 , bl, b2 Constantem sind, 80 θυῖῇἑῦϊ diese Gleiohung den
+allgemeinen Ausdruck einer cloppelt periodisehen Function zwez'ten Grades,
+vorausgesetzt. dass C von Null verschieden ist,
+
+w> ’ Q÷Q=ffi÷ae
+
+und dass keine der Differenzen
+al—bl, a1*b27 ‹QZ—bl, a2—b2
+
+der Null oder einer Periode gleich ist. Ffir diese Funotion ac bilden
+200, 2⁶0² ein primitives Periodenpaar.
+
+Aus der Gleiohung (1) kann man, wie 88 Herr WEIERSTRASS 2) im
+allgemeinen Falle aus dem Ausdrucke einer doppelt periodischen Funotion
+
+1) SGHWARZ, Formeln 'zmd Lel27·sc'it:e mom (r'ebrauelze cler elhfflisehen Fune-
+tionen, Gleiehung (1) vom Art. 5.
+
+2) In seinen leider nicht herausgegebeuen Vorlesungen iiber elliptisehe Func-
+tionen.
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΙΙΙ, 1
+

@@ -1,0 +1,43 @@
+UEBER ELLIPTISCHE F UNCTIONEN zmeEN GRADES. 15
+
+A) Dte Funotion (ι’, welche der Gleielzany (16) yenetyt, ist clann und
+nur dann doppelt periodiselz‚ menn <lie yanze rationale Funetz'on RQ) vom
+3²²⁶ oder ΨΜ Grade ist, und die Glez'eltnny
+
+(20) Ra) Ξ 0
+lanter e insa e Ιι e Wnrzeln besitzt.
+
+B) Wenn der Grad der yartzen rationalen Fanott'on RQ) eine beliebt'gse
+yanze Zahl Ξ 4 ist, and die Gleielzansy (20) weniystens eine zwec'faolte
+(keine drei- oder vierfaohe) Wurzel besitzt, so ist die Funetion ιυ eine
+ein sach periodiselze ancl zwar eine rationale Fanett'on noel ten oder ersten
+Gradere von e'¹¹‘⁷ wo Ιι eine von Nall verseln‘eclene Constante becleutet.
+
+Hat clayeqen elie Gleiclzuny (20) eine drei- oder vierfaelze Wurzel,
+oder reclucz'ert sich Rae) aas eine von Nall verselzieclene Constante, so ist
+die Funetz'on a: eine rationale szctz'on von a zmez'ten odet· ersten Gracles.
+
+Diese rationale Fanetion — sei es oon ea„ oder von n —- ist clann
+
+und nur dann vom ersten Grade, wenn νῆ eine rationale Fanett'on von
+m, oder eine oon Nall verselzledene Constante ist.
+
+Da ffir die im Vorhergehenden besonders behandelten Ausnahme-
+falle das, was sie von diesen Settzeu betrifft, sehon dort bewiesen worden
+ist, so brauehen wir hier nur den Fall ins Auge zu fassen, wo die Glei-
+chung (20) mindestens eine einfache Wurzel besitzt.
+
+Um g1·'c'›ssere Einfachheit zu gewinnen nehme ich an, dass die in
+den Gleichungen (26) angewendete einfache Wurzel a der Gleichung (20)
+gleich Nfill ist, was sonst ste'ss erreichbar ist durch eine Substitution
+von der Form
+
+aU—(Z-ss-JJJ .
+
+Alsdann ist- A' = O, B‘ von Null verschieden, und wir haben
+(29) RQ) = Aff -4- 4Bm³ -1- 6C.z÷‘·' -f- 4B‘Lv = a* ΕΒ (v) .
+
+Die Gleichungen (19), (18), (27) und (26) ergeben dann
+
+(30) m: “W ,
+

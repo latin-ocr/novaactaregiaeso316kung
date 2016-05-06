@@ -1,0 +1,50 @@
+UEBER ELLIPTISCHE FUNCTIONEN zwfflTEN GRADES. 3
+
+ 
+
+(6) oe= ²3²⁶2²†q„²‘÷sss,
+pu -f-qu-ff-v'
+
+wo p , q ‚ ¹1², ρ’, q' , ν’ Oonstanten bedeuten und
+
+(7) Μ’ - Μ = 0
+ist.
+Um grbssere Einfachheit zu gewinnen schliessen wir den in (6)
+euthaltenen unwichtigen Fall aus, wo ,τ von u unabhkingig ist.
+
+Die Entartunyen cler doppelt periodischen Functionen zweiten Grades
+
+siml also yewisse Gattunyen rationaler Fumo-tionem zweiten oder ersten Grandes
+urti
+
+entweder von ew ‚ wo ω eine von Null versclzz'eclene endliehe Constante ist,
+oder von u selbst.
+
+Es werden nun di& doppelt periodis-eheu Funetz'onen zwez'ten Grades
+sammt deren Enta72tun9en elliptische Functionen zweiten Gracles oder
+elliptiscloee Funetionen im enyeren Sinne qenamnt.
+
+II.
+
+AUSDRUCK DER DOPPELT PERIODISCHEN FUNCTIONEN ZWEITEN GRADES
+VERMITTELST DER FUNCTION gom). DIE AUS DIESEM AUSDRUCKE
+HERVORGEHENDEN ENTARTUNGEN.
+
+Aus der Gleichung (1) hat Herr WEOERSTRASS die Gleiohung
+
+ 
+
+ 
+
+1 Ago& — uo) 4- B
+(8) a Ξ Α’Ῐῳρα — ²⁶0) -1- B‘
+
+hergeleitet, welche also auch, Wenn ς.) (ιι) die aus σ(ιι> stammende go-Funo-
+‘tion bedeu‘oet, einen allgemeinen Ausdruck der doppelt periodischen Func-
+
+tionen zweiten Grades enthffl, vorausgesetzt dass die Constanten A, B,
+A‘‚ B' die Bedingung
+
+(AB'—A'B{ > Ο
+erffillen.
+

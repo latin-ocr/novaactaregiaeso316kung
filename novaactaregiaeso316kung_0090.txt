@@ -1,0 +1,43 @@
+26 GORAN DlLLNER,
+
+solution du probleme des deum corps, conszde‘ree comme cas lzmite de
+celle du problema* des N corps.
+
+30. Supposons que l'espaoe des oscillatione isoohrones en θ de
+la coordonnee R diminue de plus en plus ἐι s'annuler3 alors, R se con-
+fondant, pour le: Ο, ὲ, ses limites egales p et q [(43)‚ <44)]‚ prendra
+la forme
+
+R Ζ - Ε sin u¹ sin u2 sin (ul -ξ- u2) = - -Εζδζὲηιζ [eos αἱ) - eos (2ηλ -1- u2)] 3
+
+de meme l'autre coordonnee §3 prendra la forme analogue
+
+(ἐ = — F sin vl sin υ2 sin (v1 -Ι- ²⁷2) = — -FSTLDQ [eos 2⁷2 — cos (21]ι -Ι- v2)] .
+Dono, en posent
+1⁰ 2u1÷zc2=zc‚cosu2=e.{Esinu2=a
+
+θ t
+
+1
+
+2⁰ 2v, = u , v2= Ξπ, ὲῗε -αῩΪἫ-γῖεἷ,
+
+on obtiendra ces formes eonnues des coordonnees ιτ et y en l'anomalie
+excentrique u,
+
+ae=st=a(eosu-e) ,
+
+ 
+
+=8=av1-essinu7
+
+οὺ, par la relation bien oonnue entre l'argument u et le temps t, u se
+developpe, pour un cerole de oonvergenee convenable, en serie con-
+vergente de t.
+
+Ainsi, en considerant, pour les trois coordonnees relatives d'un
+corps, les limites d'osoillations p [<43)] et q [(44)] sous la forme de
+fonctions elliptiques pour une valeur tres petite de W, nous en obtien-
+drons la d<²termi11ation d'un mouvement oscillatoire qui s'ecarte tres peu
+de celui suivant une seotion conique.
+

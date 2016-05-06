@@ -1,0 +1,55 @@
+SUB L'EVALUATION APPROCHssE DES lN'rx'zGRALEs D123F1N1Es SIMPLES. 21
+
+(120) (1-202)Q-22‘—³3s÷722=y 0
+
+doe² (lm
+
+et que la fonction y = S„ (ω) satisfait ὲ l'equation differentielle
+
+(121) (l—x²)Zg—Z—3oeZ—Z÷n(n÷2)y=0 7
+
+mais de ces proprietes des fonctions C„(x) et S„<oe) nous ne ferons pas
+usage dans ce qui suivra.
+
+Soit maintenant t une quantit& reelle tellle que
+
+ 
+
+ 
+
+(122) - 1 < t < 1 ‚
+011 aura
+(123) *jd—⁷⁴ toe)¹vl— x :vss'fmtgosss4-{Vl4f
+et en premant ffintegrale entre les limites α,- = — l et cc = 1 , on en tire
+(124) Γ 4 ⁷ doeffffless: „1 ;
+u-1(1 -t.-1:>v1 -222 vl - 22
+
+de la formule
+
+(125) [VIA-23 <zm = 4 Vsstff ÷ Ξ aro tg V} ³5ss
+
+2ng V1-cv1÷2>‚
+
+l÷²³
+
+qu'on peut verifier sans difficulte‚ on deduit de meme
+
+ 
+
+wit?
+
+ 
+
+(126) ⁰¹ Y} - ἷϋῗ ‹1ae = Π
+
+ 
+
+ 
+
+Designons par 1p(x) une fonction entiere et rationnelle quelcon-
+que, savon-
+
+(127) w(x)=A0x'²÷A,oe'²-¹÷ . . . -f-A„„1ae÷A„ ‚
+et multiplicus l'equation (124) par l'egalite
+(128) ‘j—Jrfl ÷ ffssfflfflwff),
+

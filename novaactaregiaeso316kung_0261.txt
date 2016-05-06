@@ -1,0 +1,51 @@
+Sua L'EVALUATION APPROOHE'AE DES INTEGRALES D1'3F1N1Es stPLEs. 19
+
+par les substitutions lc = 1 , 2 , 3, . . . 72. Par sui‘se on aura les deux
+identiffis suivantes
+
+ 
+
+ 
+
+(104) m> Ξ 2ηώ ’ῖί (1⁴ - cos <2 kz} Q)
+et
+(105) =. sm> = Ξῆῗζχ-ροε ζ Γ) ,
+
+Des &quations (95) on ἀόᾶυίῐ. pour 72 ξ Ο
+
+(106) C'„÷1(:1·) = (η -i- 1)S„(s) ·
+
+Si l⁷0n de'zsigne par m et η deux nombres entiers positifs ou nuls,
+mais diffessrents entre eux, on a
+
+(107) fucos my cos nycly = Ο , sn sin my sin nydy = O ,
+„0 s!
+et en introduisant,
+
+(108) y = aro cos v
+
+dans ces int<5grales‚ nous en obtiendrons les deux formales suivantes
+
+ 
+
+ 
+
+(109) sl cos (m arqcos ae) . cos (n aro cos ae) dm - Ο
+—1 V 1 - 9³³
+et
+(UO) Γ sin (m aruc eos ae), sjn (η arc cos ατ) d ὦ, = Ο ¹
+
+υ -1 Vl —rmz
+
+Appliquons maintenant les dzffinitions (95) aux premiers membres
+des &quations (109) et (110), aprsses avoir remplao& m par m -f- 1 dans
+lkquatffin (110), nous en deffinirons les deux formules
+
+(111) [11οηνκῖ)οπξζὶ (με = Ο
+
+ 
+
+et
+
+(112) flsm«r>s„<oe> v] ‘Lssff'doe = 0 ,-
+

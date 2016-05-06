@@ -1,0 +1,52 @@
+UEBER ELLIPTISCHE FUNCTIONEN zmeEN GRADES. 29
+
+Die im Art. 4 gegebene Transformationsmethode zeichnet sich
+allerdings durch ihre Einfaohheit aus; sie ist jedooh nicht allgemein an-
+wendbar, da sie der besohrankenden Bedinguug unterworfen ist, dass
+die Gleiohung (20) mindestens eine einfaohe Wurzel besitzen muss. Sie
+gewzihrt jedoch den Vortheil, dass sie die Eigensohaften der elliptischen
+Functionen zweiten Grades aus der Besehaffenheit der Wurzeln der
+Gleichung (20) in ganz einfaoher Weise hervorgehen lassu wie wir es
+im Art. 6 ζ(ζ636116ή haben, und auch dass sie die Null- und Unendlich-
+keitsstellen der Function ganz einfaeh ergiebt (Art. Τ).
+
+Aber erst durch die WEOERSTRAss'sclze Transformatz'onsmetlzode 1) ist
+(lie volle Alllqemez‘nlzez't 'erreichu In practiselzer Hinsicht kbnnte allerdings
+die Methode des Art. 4 als ausreiehend betraohtet werden. Aber in
+functionstheoretischen Untersuchungen darf man nicht bei nur practisch
+hinreiehenden Resultaten stehen bleiben; im Gegenthess ist es hier von
+fundamen'raler Wiohtigkeit allyemein qilltiye Resultate zu suchen. Diese
+Anforderungen sind nun von der WElERsTRAss'schen Transformations-
+methode genau erffillt. In practisoher Hinsicht stellt sich aber die Saehe
+bei dieser Methode so, dass sie eigentlich nur dann eine wirkliche Verein-
+fachung der Differentialgleichung (16) gewahrt, wenn die Gleichung (20)
+lauter einfaohe Wurzeln besitzt und Rgae) vom 4sse¹¹ oder 3¹2⁰ Grade ist;
+denn in fibrigen Fauen kann grbssere Einfaehheit durch andere Substi-
+tutionen gewonnen werden, wie beispielsweise im Art. 4 bei der Behand-
+lung der Ausnahmeffflle gezeigt worden ist.
+
+Zu den allgemeinen Resultaten des Art. 5 ffigt also die Anwen-
+dung der WfflERsTRASS’schen Transformationsmethode folgendes hinzu:
+
+Jecle Dzfferentialyleiclzwzy von cler Form
+
+dm Ἰ
+mm>
+
+clu =
+
+ 
+
+ 
+
+wo RQ) entweder eine von Null ver-sehz'eclene Constante oder eine ι(χαηῑε ratio-
+nale Functz'on von cc, deren Grad hb‘clzstens = -1 ist, bedeuret, liis-§t sich stet&-
+(Iurclc <lie Wmmswfflss'selze Transformatz'on aas die Form
+
+(ΜΞ-(ἑ , 82453-923-93
+
+VS
+
+1) Diese Methode gewfihrt iibrigens den grossen Vortheil, dass sie lseesne
+Kenntm'ss von den 11‘217·2.eltz cler Gleielzzmy (20) erforclerz‘.
+

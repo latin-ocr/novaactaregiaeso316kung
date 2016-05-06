@@ -1,0 +1,53 @@
+UEBER ELLIPTISCHE. F UNC'rloNEN zwssrrssN GRADES. 7
+
+d. h. von der Form (15), wobei RQ) entweder einer von Null verschie-
+denen Constanten oder der vierten Potenz einer ganzen rationalem Func-
+tion ersten Grades gleieh ist ¹).
+
+Lbst man nun die Gleichung (15) in Bezug auf du auf, so vvird
+also der folgende bekannte Satz vollstfindig begrfindet, namlieh:
+
+Jede ellz'ptiscke Fanctz‘on zweiten Grades leistet einer Differentialylei-
+clzuny von der Form ⁸*
+
+clx
+
+(16) “²⁶ ² vm>
+
+ 
+
+ 
+
+Gemma, wo ΒΨ) entzoeder eine yaozze vationale Fzmotz'on von ω’, deren *Grad ,
+
+hb‘chstens ylez'ch 4 ist, oder eine von Nuce versckz‘edene Constante bede'zctet.
+
+IV.
+
+UEBER DIE EXISTENZ EINER ANALYTISCHEN FUNCTION, WELCHE ΗΕΒ,
+GLEICHUNG (15) GENUGE LEISTET. DIESE FUNCTION IST EINE
+ELLIPTISCHE FUNCTION ZWEITEN GRADES.
+
+Es erweist sich jetzt die umgekehrte Aufgabe als sehr wichtig,
+mamlich zu beweisen‚ (lass es δίετες —- wie man auch die Coeffioienten der
+einzelnen Potenzen von x in RQ> wahlen mag ²), wo
+
+(17) RQ)=Aoe⁴÷4Bae3÷ssCoe²÷4Hae÷AE
+
+ist — eine analytisclze szctz'on x von ιι gleba welche der Glez'elzzmy (15)
+oder (16 ) ρεηῖῳτ, und dass dies& Functz'on auch stets eine elliptz'sehe Function
+
+zweiten Grades ist.
+Herr Wmmzsmmss haf- diese Untersuchung ausgeffihrt vermittelst
+Einffihrung einer neuen Vera'nderliehen S statt α’, wobei die zwisehen s
+
+1) Aus der Gleichuug (4) oder (6) kann man, wem] die entspreehende Redin-
+gung (5) oder (7) erffillt ist, eine Differentialgleiehung von der Form (15) herleiten,
+wobei es sich zeigen wird, dass in Hoc) die zweite oder dritte Potenz einer ganzen
+linearen Function von a: als Factor auftreten muss. Wir halten 65 jedooh nicht fiir
+uffifig, diese allgemeinere Untersuehung auszufiihren.
+
+2) Nur dass sie nicht alle gleieh Null genommen werden.
+
+ 
+

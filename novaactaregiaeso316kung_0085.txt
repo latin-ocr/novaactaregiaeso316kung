@@ -1,0 +1,55 @@
+Mimomss sUR LA SOLUTION ANALYTIQUE Du PRossszME DEs N CORPs. 21
+
+Maintenant il s'agit de combiner l’equation du mouvement (51)
+avec les equations (45)-(47), en considerant generalement α , β, γ comme
+fonctions de t. Dono
+
+— cla²
+
+(Rs d (dfe da) <VR (da)2† CIR (1²11
+
+(52) clz² :dt cla ' clt (lt cla clt² '
+
+d'ou l'equation du mouvement en question prendre suivant (47) 13 forme
+
+(53) μῆ,6,111,...)ΞΕᾞ1(Ἠ)ἾΜὟΣὝ mter> θ 'Q]
+
+(lt 1—(LZLYacZ0c
+
+Nous supposons que les arguments α, β, γ soient les fonctions
+lineaires suivantes d’une quant-ite θ, pour A, A', B, B', C, C' desig-
+nant des constantes,
+
+ 
+
+Ι αεΑθ-Ῑ-ΑΙ,
+
+(54) ss=B0÷B½
+1 γείῖθ-ξ-ίῗ,
+
+ces constantes jouissant de memes indices que a, β, γ ou les coor-
+donnees w, y, z; alors les equations des aires (24) pourront <Stre mises
+sous 13 forme
+
+(55) ‘fc-‘3 = Xe> = m> = zo> ,
+
+et celle des forces vives (27) sous cette forme,
+
+(56) ((ΙΘΥ = m) ,
+
+W
+
+13 (16111166 (16 θ par rapport 3 t etant convenablement determinee en
+fonction de θ. ⁷
+Dono, si l'onv substitue dans les equations du mouvement (13),
+
+mises sous la forme reduite (53), 13 valeur de Q et de ‘12⁰
+
+dt ([τὲ ‚ on obtiendra
+
+ 
+
+enfin, 3 l'aide de (45), un systeme d’equations differentielles lineaires
+entre les arguments u1 , 2⁶2, . . . et 13 ν31“131)16 θ, systeme qui, par 16111111-
+nation, se reduira 3 la forme
+

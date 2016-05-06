@@ -1,0 +1,48 @@
+UEBER ELLIPTISCHE FUNCTIONEN ZWEITEN GRADES. 21
+
+VIII.
+
+HERLEITUNG DER ALLGEMEINEN WEIERSTRASS’SCHEN TRANSFORMATION
+AUS DER IM ART. 4 GEGEBENEN.
+
+Wir Wollen jetzt die WEmRsTRAss’sehe Transformationsformel her-
+leiten und zwar zunkiehst untes der Voraussetzuug, dass die Gleiohung
+(20) mindestens eine einfaehe Wurzel besitzt. Dies gesehieht dadurch,
+dass man in der im Art. 4 bewiesenen Transformationsgleiehung
+
+(ω oe=a÷———E†——
+3,)(ῐι —- αθ) — C
+die Gresse uO so bestimmt, dass man
+
+a: = af„ fiir u = Ο
+
+erha'lt, woduroh also 2²³0 als willktirliehe Constante statt uo eingefiihrt
+wird. Setzt man daun vorla’ufig zur Abktirzung
+
+(36) oe—a=§‚ ‹vo-(1:50,
+
+- so ergeben sich aus (9) die Gleichungen
+
+ 
+
+ 
+
+(37) ς9<ῑι -210> = c ÷ Q: ‚ gchO) Ξ «J 4- g ·
+2 >o
+Uebrigens haben wir auch
+(38) §0¹06 -- uo) = — ξ-ὀ, Z—Z} = —— ἑ VHQz) ., ρ’(ῃο) = „f- g VRQO) .
+⁵ §0
+
+Wir bezeichnen jetzt mit s (nicht die Function go(u— uo), wie es
+im Vorhergehenden gesohehen ist, sonclern) die chction 5900) sefflst, und
+erhalten dann aus dem bekannten Additionstheoreme dieser Funetion die
+
+Gleiohung
+8 = gch———TO -{- ²⁴0) Ξ
+
+ᾓωψψωαω-ξωῦωψηωψῳωή-ω-ῳω-ωψψὼ
+
+ 
+
+2 {SUW - 110)—§'¹7<H0)}² ⁷
+

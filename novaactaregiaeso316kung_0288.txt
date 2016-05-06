@@ -1,0 +1,42 @@
+46 A. Bmzome,
+
+Si f(:c) est une fonction entibre et rationnelle de la variable sc,
+dont le degn-‘3 est. inforieur ou &gal ὲ, 2η- 1 , les coefficients 62„ OQM,
+027242‚ . .. s'annuleront d'aprbs Poquation (282), et nous obtiendrons de ,
+Γέᾳυᾶῒίοῐ] (287)
+
+(288) A„ = Ο ,
+oe qui domontre la proposition suivante.
+
+Τήἐονὲτηε XV. La formale appromimative du the'orbme XIV donne
+zm re'sultat eoeact pour toute fonction entzlm et rationnelle f (Χ), dont le deyre'
+ne surpasse pas 211 - 1 .
+
+Pour η = 1 , 2 on doduit du thoorome XIV les formules approxi-
+matives suivantes.
+
+(289) semma = f<1> ,
+
+ 
+
+(290) sooo e-².f(oe)doe = ἓῌῗνφ - νΞ) ÷ 2 ζ, fif& ÷ νΞ) .
+
+ξ 12.
+
+En dosignant par n un nombre entier positis ou nul, les polyn6mes
+H„(or) de M. HERMlTE sont dofinis par l’oquation
+
+(291) ΗΜ) = μ’ -ᾱζ, 3-22 ;
+
+dx
+
+il s⁷ensuit‚ que H„(,r) sera une fonction ontio-re et rationnelle de la va-
+riable x du πίω ἀθςῑὲ. Pour η = O, 1, 2, 3, 4, 5 on obtiendra de
+l'oquation (291)
+
+(292) How> = 1, H,(oe) = -250, HQ) = 4oe² - 2, H3<oe) Ξ -8ω3 412³„
+HQ) = 16ae⁴¹ —48322 -Ι- 12 ‚ H5(oe) = - :32oe⁵ ÷ 160103- 12οω .
+
+Puisque la fonction (Γῇ s'annule pour x = — 00 et cc = 00 , nous
+trouvons par application du thoorbme de ROLLE, que la nime dorivde de
+

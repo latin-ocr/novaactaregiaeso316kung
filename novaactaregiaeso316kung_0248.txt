@@ -1,0 +1,47 @@
+6 A. BERerfflz,
+
+De meme on peut oonolure de l'equation (23), que les ooeffieients Aa-
+seront tout-&fait independents de la fonction f(x)‚ et qu'ils dependront
+seulement de la fonction φ<χ) et des valeurs interpolees xl 7 x2 . . . . πη.
+
+Τήέονὲτηε ΙΙ. Βέ8ἰ9ηοη3 par f(x) une fonction finie et continue de
+la variable re'elle x dans Z'intervalle
+
+αξωξὸ,
+
+οἱ] a et b sont des quantite's finies ou infinies, mais diffe'rentes entre elles;
+et soit φ<Χ> une fonction de x, qui jouit des proprz'e'te's, que les ἱητέῃναίθε
+definies
+
+[(Μωῇωᾱω sffwmmdoe ,
+
+οἳ] (Hx) est une fonction θηίίὲνε et rationnelle qnelconque, aient des valeurs
+finies et bien ddtervrzindes; ddsiynons par n un nombre entier positis quel—
+conqne et par xl 7 512, . . . . Χῃ n quantite's refelles, dzffe'rentes entre elles· et
+‚eitue'es (lans l’z'nteoevalle εἰῶ-ἀίω en faisant
+
+Ἐζᾶ) = (a —- a:1)(;1·- φρ) . . . . (x -— γη) ,
+on aura la formale approximative
+[ὀρφςχη 11)]1]Ξ Σ Akfm).
+
+οἱ] les &efficiente Ak sont de'lewmzne's pao Za formale
+
+AR Ξ sb βω ‚ Fe>
+a ν (Q) oe—xk
+
+ 
+
+ 
+
+dat.
+
+Maintenant nous calculerons Verrem, qu'on commet en employant
+la formule approximative du theoreme precedent. En designant eet
+erreur par An, on a evidemment
+
+(24) Δ71 = sbm<x>f<x>dae -Ξ abso-k> .
+Si la fonction f(·'²‘) peut &tre developpee en serie
+(25) f(:1‡)=r{⁰⁰erf .
+
+r=0
+

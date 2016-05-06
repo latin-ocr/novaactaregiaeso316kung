@@ -1,0 +1,46 @@
+UEBER·ELL1PTISCHE Foxcnoxssn zwfflTEN GRADES. 5 ¹
+
+Man fiberzeugt sich leicht, dass diese aus (8) hervorgehenden
+Entartungen mit denjeniqen in (4) und (6) enffiasteneu, welche rationale
+Functionen zweiten Grades von z oder von za sind, vollstiindig ‹ik-erein-
+stimmen. Dayeyen lcommen die, welche in (4) und (6) enthalten und vom
+ersten Grade sind, ωηεν· diesen Entartunyen von (8) yar nicht vor.
+
+Wollen wir dann die Gleichuny (8) benutzen, um Eigenschaften
+der elliptischen Funotionen zweiten Grades zu beweisen, so wird es also
+ausserdem nethig sein, besonders zu zeigen, dass die in (4) zmd (6) ent-
+haltenen Enta2⁷tunqen ersten Grades die-eelben Eiyensclzaften besitzen.
+
+III.
+
+UEBER DIE HERLEITCNG DER DIFFERENTIALGLEICHL'NG DER
+ELLIPTISCHEN FL'NCTIONEN ZWEITEX GRADES.
+
+Aus der Gleiohung (8) und der fiir
+
+l d ,ς = ς9(ιι - αθ)
+ge ten en
+
+Α (14) (5) = 4³³ —923 —93
+
+sl ῑι
+
+ergiebt sich ohne Schwierigkeit, wie es Herr WEIERSTRASS bewiesen hat,
+eine Differentialgleichung von der Forrn
+
+(15) (d—J'Y = mr> ,
+
+[Ι ιι
+
+wo RQ«) eine ganze rationale Function von ιτ bedeutet, deren Grad hech-
+stens = 4 ist. Die Coefficienten der einzelnen Potenzen von ιι· in RQ»)
+sind rational aus den Invarianten 92, ,Ua der Funetion 5001) und den
+Constanten A ‚ B ‚ A' ‚ B' in (8) zusammengesetzt.
+
+Hierdurch ist also bewiesen‚ dass die doppelt periodischen Func-
+tionen zweiten Grades und deren aus (8) her‘voryehenden Entartungen
+einer Differentialgleichung von der F orm (15) genfigen. Es eriibrigt
+also noch naohzuweisen, dass dies auch mit den in (4) und (6) enthaltenen
+Functionen ersten Grades der Fal] ist, wobei man natfirlieh u—uo statt
+u zu setzen hat.
+

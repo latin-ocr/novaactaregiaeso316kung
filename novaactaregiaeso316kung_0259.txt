@@ -1,0 +1,45 @@
+Sua L’EVALUATION APPROCHssE DES INTEGRALES DEFINIES SIMPLES. 17
+et des &quations (86) et (87) on d6duit. dans ce cas
+
+(88) K„ = (—)'¹K„ ;
+pour les ¹nombre‘s impairs η il s'ensui‘s
+
+(89) Κη = 0
+et. par suite, d’aprkaes l’e‘zquation (83),
+
+(90) A„ z Ο .
+
+Nous re'Jsumons ces r6sultats dans le thtssorbme suivant.
+
+The'orme VII. La formale approximative du the'orbme VI donne
+zm re'sultat exact pour toute fonction entibre et ratiomzelle f(x)‚ dont le deyre'
+est inffirieur ou e'9al ὰ n — 1 ‚ et encore pour toute fonction emefre et ration-
+nelle f(x) du nim degre', si n est un nombre impaz‘r.
+
+Pour n = l⁷ 2 ‚ 3, 4 nous obtiendrons du theorbme VI les for-
+mules approximatives sussvantes.
+
+(91) s¹f<ae>01oe πίε) ,
+(99) s0¹s·(oe>dae={f({)÷ lf({) ,
+
+Ξ
+(99) s0²f<ae>dae = gfff) ÷ ἐμὲ) ÷ ssfffi) ν
+
+ 
+
+(94) s ¹f<as>c1oe = {2ng ÷ ssssfss’) ψ ᾗζβᾷ) ÷ ssssfffi) -
+
+ 
+
+§5-
+
+Dans ce paragraphe nous d&montrer0ns quelques formules, dont
+nous ferons usage dans ce qui suivra. Soit n un nombre entier positis
+ou nul et posons
+
+(95) C„(x) = cos (η arc cos w) ‚ S„(2-) = Sin κη ’⁴2 {chqugffl ⁷
+
+ 
+
+Nova Acta Reg. Soc. Sc.=Ups. Ser. 111. 3
+

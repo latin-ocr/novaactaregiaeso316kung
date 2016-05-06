@@ -1,0 +1,62 @@
+MI'QMOIRE SUR LA SOLUTION ANALYTIQUE DU PROBLEME DES N CORPS. 5
+
+les termes ἒι l'indiee rr, comme j’ai remarque (ti-desem, etant nuls. En
+ajoutant les equations de la meme ligne de ees Neystemes, on obtiendra
+d’apres (1) les trois &quat-ione suivantes,
+
+cl ² X„
+
+ 
+
+ 
+
+ 
+
+ἔφη’ (1τὲ =O ’
+ΣΝφηΓ (12Ξῖ = Ο ,
+r=1 dt*
+ENm„ ‘pq' = Ο ,
+=1 (lt-²
+
+d’oh l'on tire immediatement ces integrales, A, B, C et α, h, ζ’ e'tant
+les constantes &inte-gratim,
+
+2NmrX„ = At -f- a 7
+r=l
+
+svm„ K. = Bt -ι- b ,
+r=1
+
+ΣΝυὶ,ΖΓ = Ct -4- C ⁷
+
+r=1
+
+integrales qui donnent, ὲ l'aide de (8) et (6), les equations
+l &XO = At -f- a .
+(10) σΥΟΞΒτ-ς-ἰ),
+Ι σΖΟ = Ct 4- c· ‚
+
+lesquelles enoncent la loi bien connue que le centre de gravite se ment
+suivant une ligne droite.
+
+l 3. A l'aide de (8) et (10), les N systemes (9) e'eoriront comme
+i suit,
+
+ 
+
+ 
+
+(11)
+
+ 
+
+ 
+
+1 m' ατε ³21 Eis RN
+
+ 
+
+ 
+
+ 
+

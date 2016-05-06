@@ -1,0 +1,41 @@
+36 Ἰ A. samm,
+
+Des &quatiens (211) et (214) nous conclurons, qu'on satisfera ἐι
+l'equation differentielle
+
+(215) (.„2-1)}²3c³}÷25122‡-n(n÷1)9=0
+par la fonction
+me y=ffiffffi4r
+
+et par suite, d’apres la definition (206), par la fonction
+
+ew> y=ew-
+
+En substituant cette valeur de la variable y dans l'equation diffe'-
+rentielle lineaire (215), nous en obtiendrons l'identite
+
+(218) (22 -1)P‚:(2·)÷ mmm - n<n ÷ I)Pn(J;) = ο
+pour η Ξ Ο. Remplatgons n par m dans cette &galitffi nous en deduirons
+em> ω-υῇωψππψμψωψωῆωεο,
+
+et en nmltipliant les deux membres de l'equation (218) par PM) et les
+deux membres de l⁷equation (219) par PM), nous en tirerons par
+soustraction
+
+(220) (η - ῃι)(η ÷ m ΔΓ 1)ΡΜ(;ι-)Ρη(.ῃ) = ᾗξςω- 1)(Pm<x>P‘„<x> -R2(2e>P'm(ae)>}
+
+et par suite, en integrant entre les limites x = κ- l et χ = l⁷
+
+(221) (η - m>(n -1— m ψ 1)]1 &mmmmm = 0 .
+-ι
+
+Supposant, que les nombres m et η soient differents entre eux,
+110118 en 0011011110118 la formule
+
+(222) j Ρωῳεη)Π (1) ‹1oe = 0 ,
+
+qui subsiste pour tous les nombres entiers m et n, qui satisfont aux
+conditions
+
+(223) m > Ο ‚ n > O , 712 Ξ n.
+

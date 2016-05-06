@@ -1,0 +1,50 @@
+ME'MOIRE SUR LA SOLU'PION ANALYTI QUE DU PROBLEME DES N CORPS. 27
+
+Lz'az'sons entre certains anqles et les aryuments elliplz'ques des
+
+coordonne'es.
+
+31. Soient m, 9, z les coordonnees d'un corps et QI, Q, (ξ 166
+aires doubles projetees sur les plans coordonnes perpendiculaires respec-
+tivement ὲ, m, 9, 23 alors on aura
+
+Ι 9ίίε-Ζζί9 = (2³21,
+(64) zdoe—oecl: ε (ἷὲὃ,
+1 ,τιῑ9-9ᾱῑσείίῥῑ .
+
+Le plan de l’orbite etant defini comme eontenant 16 rayon veeteur
+R et la tangente correspondente de l’orbite‚ on determinem les angles
+λ, μ, ι’ que fait la normale de 66 plan aveo les axes respeetifs des coor-
+donnees ω, 9, Z par les deux conditione de perpendicularite suiv-antes,
+
+65 Ι ιυρο6λ-1-9οο6μ-4-εοο6ιέ0,
+< ) l (laecosL-f-‹l'ycosflt-1-dzeosz‘: O,
+
+d'o1‘1 l'on tire
+
+(66) cosi Ξ 606μ = eosw μ 1 7
+d⁵21 le} ‹2OE dP
+
+en mettant
+(6⁷) (αΡ)2 = &215² ÷ 0123? ÷ <c1cs>² = <Em o>2 2
+
+οὺ (ΖΘ et dP designent les differentielles respectivement de l’are deerit
+par l'unite de R e‘s· de l'aire double deerite par R.
+
+32. Si Π et π designent, sur une sphere dont 16 rayon est 1,
+les poles respectifs dn plan coordonne „vy et de l’orbite decrite par
+fc, 9, ε, 166 ooordonnees du point π etant d’sspres (66)
+
+(ΙὲΙ (1⁵23 cla}
+dP ' <lp ' Tlf’
+
+ 
+
+ 
+
+il s'ensuit que la courbe deerite par π auteur du point [I depend des
+arguments et des periodes des fonctions elliptiques qui representem les
+coordonnees w, 9, 2.
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΠΙ. 4
+

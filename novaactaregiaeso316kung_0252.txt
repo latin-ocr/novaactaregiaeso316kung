@@ -1,0 +1,51 @@
+10 A. ΒΕΗΘΕΕ,
+pour A- = 1 ‚ 2, 3, . . . n , nous aurous
+
+(43) Fae> = {1⁷² (x - ἑξ) ,
+
+n-l
+
+et par confflquent nous en obtiendrons la sormule d'approximation
+
+ 
+
+ 
+
+(44) j0¹f02⁷>doe Ξ Ξ Α) f( Z: ἴ )
+
+οὺ les eoeffioients Al„ sont donn& par la fol-mule
+(45) Ak=s¹ l tel-i* . ffFZ-Ql (ιω.
+
+OF(7z—l) 22-er
+
+ 
+
+Nous transformemus cette expression des coeffieients AR. De 1⁹&quati0n
+(43), mise sous la forme
+
+ 
+
+ 
+
+(46) F(x)=oe(x—Q¹—)(ae-- 2 )...(.22-⁷²‘2)(x-1>‚
+
+n—l η-Ι η-1
+
+ou tire par diffffient-iation logarithmique
+
+ 
+
+ 
+
+(47) Ε’(υσμζὲὢψ x F(.‚÷>††m÷ x ΕξῖκζΞ ÷{3321
+η - l η — 1
+et pour sp· = ῗὲιῖ-ἰ- on defiduit de cette &gali‘mss⁷ en observant que
+Β (ᾸΞ-Ῑ) = 0
+n — 1
+<48> Ε’(Ῐζ-ὲΡΓΨΤ]
+''fi-'1 -ἑΞὲ
+
+ou, d'apffis fflquation (46),
+
+<49>Fr<53-1})=[ss<)<—><—>}
+

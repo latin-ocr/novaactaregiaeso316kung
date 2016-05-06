@@ -1,0 +1,51 @@
+Sua L'EVALUATION APPROCHE'JE Dl-:s INTEGRALES DEFINIES fflMPLEs. 9
+
+Τ Ιιέονὲνηε III. Si Za fonction ΠΧ) peut &tre (Ze'veloppe'e en se'rz'e or-
+donne'e suivant les puissances eroissantes de x, telle que
+
+rw
+f(»1') = Σ θνα-ε’
+
+r=sl
+
+pour α ξ x Ξ b ⁷ l'erreur An, qu’on commet en employant Za formale (Γαρ-
+proximation du tlze'orbme H, sera domze'e par la formale
+
+A„ = cr K„ ⁷
+
+M
+
+οὶι les quantite's ΚΤ sont de'termine'es cle la mambre suivante. Si l’on de'sz'yne
+par Q„(x) le quotient, qu’on obtient en divisam Za puissanee xr par le poly-
+ηό-ιηε F(x>, on aura
+
+ΚΓ = β w> ΠΙ) ρνςχγῑχ .
+
+Dans les cas, οἰι χ’(χ) est une fonction entikffe et rationnelle de
+
+la variable x, dont le degr& est au plus (igal ὲ n — 1 ‚ la sormule approxi-
+mative du the'mrbme Π donne un retusultat πᾶσα en effet, dans ces cas
+
+les coeffioients e„ , affl, c„÷2 ‚ . . . . s'annuleront‚ et du ‘offleorkme III on
+conclura
+(40) A„ = O .
+
+Des tmorbmes g&n‹5raux‚ que nous avons ᾶὲῐῃοῃϊῑόε dans ee qui
+ρτόοὲᾶθ, nous d6duirons quelques formales spffoiales pour l'essvaluation
+approch6e des int&grales dessfinies simples.
+
+§a
+
+Dans ce paragraphe nous dffluirons du th6orbme ΙΙ la m6thode
+d'approximation, donn& par NEWTON et OOTEs. En supposan⁴t⁷ que
+η Ξ 2, et en y faisant
+
+(41) a=0‚b=l.‹p(x)=l
+et
+(42) χρὴ-1
+7ι-1
+
+ 
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΠΙ.
+

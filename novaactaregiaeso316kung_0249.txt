@@ -1,0 +1,46 @@
+SUR L’EVALUATION APPROCHEE DES INTEGRALES nummus siMPLEs. 7 -
+
+qui subsiste pour tontes les valeurs de la variable J, qui appartiennent
+ἐι l'intervalle α Ξ x Ξ b, on obtieudra de l'equation (24)
+
+(26) A„ Ξ [ὓφω Σ armam-kg Ah ’Σ ως
+ν<α r=0 k=1 ·=⁷¹
+OU
+γεω · w i>=n
+(27) A„ Ξ Σ ⁶²3 j ‹p(.c)ffcloe— Σ *iffi-2 ,
+r=0 ua k=1
+formule, qui peut s'ecrire
+(28) A„ = Σ 0,,ῘῖΓ ⁷
+
+ou les quantites ΚΓ sont donnees par l’equa‘tiouv
+k=n
+
+(29) Κ, = Γφαῃναω- Σ Αμς .
+
+k=1
+
+En y substituant la valeur de Ah, determinee par l’equation (23),
+nous en obtieudrons la formule
+
+(3ο) Κ, Ξυίὸφςῑ) {ff - ’,Ῐ
+
+ 
+
+ 
+
+qui subsiste pour r Ξ Ο . Cette expression de la quantit& K„ peut &tre
+transformee de la maniere suivaute. Soit r un nombre entier positif ou
+nul, et divisons la puissanoe ff par la fonction entiere et rationuelle
+F(22)‚ dont 16 degre est egal ἐι η; en designant par Q„(„2·> et RQ> 16
+quotient et 16 reste, qu'on obtient par cette division, Q,.(„v) 61Ε<χ>
+serent des fonctions entieres et rationnelles de la variable sc, et le degre
+de la fonction RQ) sera evidemment tout au plus &gal ἐι n— 1 . Quam
+au quotient Q„(J;), on aura
+
+(31) Qrssc) = 0
+
+pour ν Ξ η- 1 , mais pour r Ξ n 16 degre du poly116me Qrssc) sera egal
+a ν-η, De ce qui precede resulte aussi l’identite
+
+(32) ff = Fae> ΩΤ (11) ÷ RQ) .
+

@@ -1,0 +1,40 @@
+Dans ce memoire je me propose de demontrer une formule generale
+pour l'evaluation approchee des integrales definies simples et d'en de-
+duire des formules approximatives speciales. Ainsi j'ai expose les for—
+mules donnees par NEWTON et Coras (ξ 3), par GAuss (ἓ 9) et par
+CHRISTOFFEL (ξ 6); en outre j’ai <ie-§duit quelques autres formules d'ap-
+
+proximation dans les paragr-aphes 4, 7, 11, 13 ¹).
+
+§L
+
+Soit f(a;> une fonction finie et continue de la variable a· dans
+l'intervalle
+
+ss> αξωξῡ,
+
+ou α et b sont des quantites finies ou infinies‚ differentes entre elles.
+En designant par n un nombre entier positis quelconque et par
+
+(2) x1‚‡=2,.1·3‚...oe„
+
+η quantites inegales appartenant ἐι oet intervalle‚ on peut former sans
+difficulte une fonction entiere et rationnelle f2(.15) de la variable m, qui
+prenne les memes valeurs que la fonction f(oe) pour
+
+(3) ,ιτ = ,ιη ‚ ,ι’ = 172 7 - - · - sc = ατη -
+
+1) Les travaux, que j’ai consultes sur oe sujet, sont:
+
+G. BOOLE, A treatise on the calculus of finite differenees. London 1872.
+
+I. TODHUNTER, An elementary treatise on Laplace’s functions, Lame’s func*-
+tions and Bessel’s functione. London 1875.
+
+CH. HERMITE‚ Cours d’Analyse de l'ecole polyteohnique. Premiere partie.
+Pyris 1873.
+
+Η. ΙΛΑΠΒΕΝΤ, Traite d’Analyse. Tome V. Paris 1890.
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΙΙΙ. ¹
+

@@ -1,0 +1,53 @@
+6 KNUT J'XNGSTROM,
+
+und dass man also bei Herstellung der Streifen nieht eine so peinlich
+genaue Gleiehheit derselben zu erstreben braucht.
+
+Zwez'te Abeinderzmy der flletlzode.
+
+Der eine von den Streifen, z. B. A, wird der Strahlung ausge-
+setzt, der andere B beschattet. Man beobaehtet die Ablenkung des Gal-
+vanometers, naehdem der Thermostrom konstant. geworden ist (Ε und
+El in Verbindung mit T und TI). Die XVssirnffimenge, welche A erhfflt,
+findet man mit Anxvendung des NEWTON’seheu Abkfihlungsgesetzes7‘
+
+Q=blq=k6‚
+
+wo θ die von dem Galvanometer angegebeue Temperaturdifferenz und
+lc die Abkiihlungskonstante der Streifen bezeielmet. XVenn wir jetzf.
+ohne jede Veranderung im Ubrigen einen Strom durch A sendon, wird
+die Temperaturdifferenz noch gresser. Diese wird durch die darn-ach
+folgende A-blenkung 6l des Galvanometers bestimmt und sohliesslieh wird
+auf dieselbe Weise wie friiher die Steirke z' des Erw{irnmngsstromes be-
+stimmt. Dann ist die zugeffihrte XVssirme:
+
+ri*
+
+4‚1-9=7¹'⁰¹‘
+
+ 
+
+Q1 =blq÷
+
+Aus diesen Gleiehungen findet> man:
+
+2¹² 1¹6
+
+ΨΜ·
+
+Bei dieser Versuchsanordmmg braucht man offenbar keine Vor-
+richtung fiir eine stiitige Veriinderung der Stssrke des Erwfirmungsstro-
+mes. Der gresste Vorzug ist aber, dass man auf die immerhin ein wenig
+bedenkliche Anwendung eines Schirmes verzichten kann. Dies diirfte
+wohl die einzige Methode sein, in welcher die Anwendung eines Sohirmes
+fiberfliissig ist.
+
+4. Als Beispiel der Anwendung der neuen Methode fiihre ich
+hier eine Bestimmung der Strahlung einer ARGAND‘sehon Lampe an.
+
+Yor die Lampe wurde ein Doppelsohirm gestellt und die Strab-
+lung konute nur durch eiu Looh von 2‚4 cm Diameter, welches in dem
+Sehirme angebracht war, auf die Streifen des Messapparates fallen.
+Die Entfernung zwischen den Streifen und der Mitte der Flamme war
+60 cm. Die Konstanten des Apparates waren iibrigens:
+

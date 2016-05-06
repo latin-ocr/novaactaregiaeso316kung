@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso316kung/novaactaregiaeso316kung_0357.png"; bbox 0 0 2123 3050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 977 684 1113 731">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 977 684 1113 731">
+     <span class='ocr_line' id='line_1_1' title="bbox 977 684 1113 731; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 977 684 1113 731; x_wconf 67' lang='lat' dir='ltr'>ZUR&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 190 873 1872 950">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 190 873 1872 950">
+     <span class='ocr_line' id='line_1_2' title="bbox 190 873 1872 950; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 190 873 582 949; x_wconf 83' lang='lat' dir='ltr'>KENNTNISS</span> <span class='ocrx_word' id='word_1_3' title='bbox 621 874 766 947; x_wconf 76' lang='lat' dir='ltr'>DER</span> <span class='ocrx_word' id='word_1_4' title='bbox 807 873 1278 946; x_wconf 73' lang='lat' dir='ltr'>LEBERGALLE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1322 874 1451 949; x_wconf 73' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_6' title='bbox 1490 875 1872 950; x_wconf 75' lang='lat' dir='ltr'>MENSGHEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 680 1492 1379 1533">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 680 1492 1379 1533">
+     <span class='ocr_line' id='line_1_3' title="bbox 680 1492 1379 1533; baseline -0.004 0"><span class='ocrx_word' id='word_1_7' title='bbox 680 1493 853 1533; x_wconf 87' lang='lat' dir='ltr'><strong>OLOF</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 893 1492 1379 1532; x_wconf 84' lang='lat' dir='ltr'><strong>HAMMARSTEN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 671 2501 1392 2523">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 671 2501 1392 2523">
+     <span class='ocr_line' id='line_1_4' title="bbox 671 2501 1392 2523; baseline -0.001 -3"><span class='ocrx_word' id='word_1_9' title='bbox 671 2502 768 2521; x_wconf 76' lang='lat' dir='ltr'><strong>DRL&#39;CK</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 790 2502 850 2520; x_wconf 81' lang='lat' dir='ltr'>DER</span> <span class='ocrx_word' id='word_1_11' title='bbox 870 2502 1108 2520; x_wconf 76' lang='lat' dir='ltr'>AKADEMISCHEN</span> <span class='ocrx_word' id='word_1_12' title='bbox 1129 2501 1311 2520; x_wconf 68' lang='lat' dir='ltr'><strong>BUCHDRUCK</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1317 2502 1392 2523; x_wconf 77' lang='lat' dir='ltr'>EEEEE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
