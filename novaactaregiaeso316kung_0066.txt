@@ -1,0 +1,20 @@
+2 GoRAN Damnst,
+
+tions entre les constantes des coordonnees et les constantes d'integration
+de tous les corps. Apres cela j’ai mont-re que la relation‘entre l’argument.
+principal et le temps se tire, par la quadrat-ure, d’une equation conve-
+nablement etablie, l'argument principa] etant pris pour variable inde-
+pendante, et, de plus⁷ que cette meme equation admet de developper
+l'argument principal en serie convergente du temps. La solut-ion du
+probleme des deux corps est ensuite traite comme cas limite de celle
+du probleme des N corps, en envisageant que le mouvement oscil-
+latoire des coordonnees entre des limites donnees change, ces limites
+confondues‚ en celui suivant une Section conique. Enfin j’ai discute les
+liaisons entre les differentielles des aires et les cosinus des angles que
+fait la normale du plan de l'orbite d'uu corps avec les axes coordon-
+neS‚ en indiquant la dependance entre ces angles et les arguments
+elliptiques des coordonnees.
+
+Tels sont en peu de mots les resultats que contient ce Memoirc
+et que je maintenant souinets au jugement indulgent des Geometres.
+

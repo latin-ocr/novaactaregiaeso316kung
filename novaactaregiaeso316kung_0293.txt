@@ -1,0 +1,41 @@
+Sua L'ssVALUATloN APPROCHfiJE DEs INTssGRALEs DEFINIES SIMPLES. 51
+
+Supposons, que 16 fonction f(oe) soit d&veloppable en 66ῖί6 con-
+vergente, (16 sorte que l'on ait
+
+(325) f(x) = σο ÷elx÷ 0222-1- 03203 -f- . . ..
+
+pour tontes 166 valeurs Γ661166 (16 16 variable ω, et dsssignons par A„
+l’erreur commise en employant la formuke d’approximatiou oi-dessus,
+nous aurons d'apffffi 16 ’ώέοτὲιᾙ6 III
+
+(326) A„ = {²⁰ 0„J<„ ,
+οὺ
+(3:2⁷) K„ = (- {Um e-ffffmmmdoe 2
+
+61 l'on defisigne par Q„(ae) 16 quotient, qu'on obtient en divisant la puis-
+66666 ff par 16 ροΙγῑιόω6 (— ἐγ H„(J;).
+Pour
+(328) ηξτΞΞη-1
+
+16 degn-‘3⁴ du quotient wa) sera inf&rieur ou &gal 6 η- 1 ‚ et par appli-
+oation (16 16 formula (317) au second membre de 16 formule (327), nous
+en d6duirons
+
+(329) Κ, = 0
+
+pour ngr} 2n-1, et par consfiquent nous obtiendrons (16 Γέςυὲι-
+’cion (3:26)
+
+(330) a„ = ’ἶ 0,ss .
+r=271
+Dans 166 eas, 01¹1f(:c) est une fonction entibre et rationnelle (16 la
+variable cc, don‘t¹ 16 degr& ne surpasse} pas 2n—1 ‚ les ooeffieients 62„
+
+1:2n4„ 02„42, . . . . s'annuleront d'aprbs l'e'Jquation (325), et par suite nous
+tirerons (16 l’‹5quation (330) dans 666 666
+
+(331) A„ Ξ 0 ;
+
+(16 16 16611116 16 ’(116οτὲῑῃ6 suivant.
+

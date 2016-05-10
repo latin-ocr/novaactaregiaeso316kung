@@ -1,0 +1,57 @@
+Suss L'EVALUATION APPRocHI'ssE DEs INTEGRALES m'ffmms SIMPLES. 41
+
+qui a π racines &galee ὲ Ο, et dont le premier membre s’annule aussi
+pour rr = 00, nous concluons, que l'&quati0n
+
+(248) (id—L„ (ιε-ψ) = 0
+
+a η racines rsselles, ineffigales 'et positives. Par suite l’&quation algbbrique
+
+(249) ex H} (ssa-⁷¹> = 0
+
+ΟΠ
+
+(250) ΕΑΓ) = 0
+
+aura aussi ses n racines welles, {uftgales et positives.
+
+En d43ignant· ces racines par τι, cc , . . . fc„ et en observant⁷ que
+le coefficient de la puissanoe :rs-'¹ dans le polyn6me R„(.Y) est &galal'11nite'27
+nous aurons l'identi‘t&
+
+(⁶251) m> = [ζεῖ - η) .
+
+Βέῇῃίεεοῃε 2 comme fonction de la variable ει· au moyen de 1⁷&galitcss
+(252) ε = e‘² „t” ‚
+
+nous en obtiendrons par diffffientiation logarithmique
+
+(253) ,τΓΙ-ὶ-ωε-ηΖΞΟ
+
+et, par suite,
+
+‹21¹1÷1(‘J²)
+
+J]—
+dx
+affl ‘⁴ 'affl ’ Ἥμι -
+
+(254)
+
+ 
+
+Ι ou, d’aprbs la formule de LEJBNITZ‚
+
+d¹¹÷22
+ζῖἶ
+
+(255) ΜΓ, ÷ (1 ÷ ω) ἕζξΞ, ÷ (η ÷ 1> Γ = 0 .
+
+ 
+
+En y substituant
+
+(256) —au = u 7
+
+Nova Acta Reg. Soc. Se. Ups. Ser. ΠΙ. 6
+

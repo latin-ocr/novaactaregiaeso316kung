@@ -1,0 +1,47 @@
+6 , O. V. L. CHARLIER‚
+
+lich nur ein Ausdruek daffir, dass der einfallende wie auch der gebrechene
+Strahl durch denselben Punkt der breehenden Flache geht.
+
+Um den Ausdruek ffir λ zu erhalten, miissen wir uns seiner geo-
+metrisehen Bedeutung erinnem. Durch den Mittelpunkt C der brechen-
+den Flfiohe legen wir eine Ebene senkrecht zur Achse des x· Diese
+Ebene wird in den Punkten Q resp. Q'von dem einfallenden und dem
+gebroehenen Strahl ΡΩ resp. J'Q' getroffen. Naeh den Brechungsgeset-
+zen liegen P⁷ Q und ρ’ auf einer geraden Linie. Es war nun
+
+λ = sxxCQP
+λ’ = Α CQ‘P
+Ffir x = Ni -Ι- 92- erhalten wir
+y = μ» <2210 ψ ιω)
+= 92> <qm ÷ τω)
+und die Gleichung fiir CQ' oder CQ wird demnach
+
+υ ε
+
+paq-ff> ‹F› ,μω
+
+ 
+
+ 
+
+Der Winkel zwisohen dieser Linie und dem gebrechenen Strahl
+wird also bestimmt aus einer von den Formeln
+
+ 
+
+ 
+
+ 
+
+(6) αοελ--ι- Ϊ)(7)-Ρῖί)ψτζ<ᾳ-μῑν>.
+-ῊΡΉίῩΗᾳψώ-’Ὴ Just-fc?
+(7) sin2 λ - (2⁹ 4- α)2 ÷ (pv - qu)2 ÷ <q÷vye
+[(2) ÷ 20² ψ (q ÷ v>²] [1 ΔΓ 20²4 q2]
+
+Die Zweideutigkeit des Zeiehens liisst sich, wie wir spfiter seben
+werden⁷ umgehen.
+
+Die Herleitung der allgemeinen Differenngeichungen liisst sich nun
+in folgender Weise ausffihren:
+

@@ -1,0 +1,46 @@
+34 A. Bemm,
+
+Dans les eas, οὺ f(x) est une fonction entiere et rationnelle de
+x, dont le degre est inferieur ou &gal ὲ 2η- 1, les ooeffieients c2n,
+c2n41, . . . s‘annuleront‚ et par suite noue obtiendrons de l’equation (200)
+
+(201) A„ Ξ 0 .
+
+ΤΙιέονὲΊηε XI. La formale approximative du theorema> X donne zm
+re'sultat exact pour toute fonction εητίὲνθ et ratiomzelle f (x), dom} Ze (ἰερνό
+est z'nfe'rieur ou {qast ὰ 2η- 1.
+
+Pour η = l, 2‚ 3, 4 οι] ἀόάῑιίῖ du theoreme X les formules ap-
+proxnnatives suivantes.
+
+(202) ss<x>v1TF<1sc = ἐγω) ,
+
+ 
+
+203> s-Zfffiffl-ffdoe:{{s·(-{)÷f({)} '
+
+(204) jjlf<.z2>v1-Z-z=⁷-g3s‘(-V{)÷ 2s<0>÷s·(V.—¹{)} ,
+
+(205) Γ ,ῑωνιῖῇαω = ᾗ {5 —4v5 Α, νε) ÷ 1)
+
+ 
+
+ 
+
+4
+
+ψὸἶψῧὶμγξῖ 1)-Ι-5ᾚῐί5ιωίῧῖ1)-1-5-Ξ1γ5ἴα5ἶ1ῃ ·
+
+§8
+
+Dans ee paragraphe j'exposerai quelques proprietes des polynssmes
+Pnffi) de LEGENDRE‚ qui sont definis par l'e'galite
+
+ 
+
+(3⁰6) ΒΨ) ² 2 [4 . 61. . . 2η <7ae (³2
+
+η etant un nombre entier positif ou nul. Il s’ensuit, que P„(Js) est une
+fonction entiere et rationnelle de la variable w du nime degre. Pour
+η = (), 1, 2, 3, 47 5 nous en tirerone
+

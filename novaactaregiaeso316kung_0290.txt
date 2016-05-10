@@ -1,0 +1,40 @@
+48 A. Bammz,
+
+Introduisons maintenan‘s. au lieu de u une variable nouvelle y,
+liee avec u par la relation
+
+(302) u. = e-ffly ‚
+nous en tirerons par differentiation
+
+(303) 6²¹³ Q = All* — 22¹3) 3
+
+ 
+
+(304) (ίὲ,( ÷ 2ae ΒΨ(- = ers* (Q - 2oe (13( - Q) .
+
+En appliquant les &quations (302) et (304) aux equations (300) et·
+(301), nous trouvons, qu'on satisfera ὲ l'equation differentielle
+
+<Py dv
+
+(305) 33:2⁷⁷-2OEff'25-''Q23s = 0
+par la fonction
+(306) y = e²² ᾗ ss* ;
+
+d’apres la definition (291) le polynssme
+ew> y=ffle>
+
+satisfera donc ὲ, l⁷equation differentielle (305). En y substituant la va—
+leur de y, donnee par l’equation (307), nous aurons l'identite
+
+(308) H''„(oe) - ZxH'„(oe) -1- 2ηΗη(γ) = 0 ⁷
+d'oh l'on tire, apres avoir remplaoe η par m7
+(309) Ηᾭῃω) - QH‘WQ) -f- 21nHm(x) = 0 .
+
+Multiplions les deux membres de l'equation (308) par ΗΜΘ) et
+les deux membres de l'e‘quation (309) par H„(x)‚ nous en obtiendrons
+par soustracnon
+
+mm wmwffimffim=fflwfflffl—fflfflffffl>
+- ογ( Hm (φ) Η (φ) - H„ (ιν) Η (00)
+

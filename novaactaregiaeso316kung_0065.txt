@@ -1,0 +1,29 @@
+Par solution analytique de ee probleme j’entends une telle par ou les
+coordonnees de tous les corps s⁷exp1·iment en fonotions d'une variable
+entre laquelle et le temps existe une relation determinee, tout en sup—
+posant que les positions et les masses des corps soient quelconques.
+ApreS avoir etabli, suivant la methode algebrique‚ les resultats que j'ai
+developpeS, ἐι l'aide des quaternions, dans mon Me‘moire sur le pr0bl‹}me
+des N corps, insere dans les Nova Aeta de la Societe‘ royale des seieuees
+d'Upsala pour 1877, j'ai propos& une fonction elliptique {1 trois arguments
+independants‚ laquelle jouit de la propriete remarquable d'osciller entre des
+limites variables mais bien determinees‚ en meme temps qu'elle reduit
+generalement une equation differentielle du second ordre ἐι deux equa-
+tions differentielles lineaires [lu premier ordre entre les trois arguments⁷
+par l'integration (lesquelles s'obtient le nombre legitime (16 deux con-
+stants d⁷integration. En faisant usage (16 telles fonctions elliptiques,
+representant les ooordonmsses, j'ai reduit les equations du mouvement
+relatif ὲ un systeme d‘equations differeutielles lineaires du premier ordre
+entre les arguments elliptiques dont un, dit argument principal, est eom-
+mun 51 tontes les coordorniees, et l⁷integration de 66 systeme⁷ laquelle
+sera toujours possible en series eonvergentes‚ donne le nombre legitime
+de constantes d'integration du probleme. Puis, ὲ l’aide de ees fonctions
+elliptiques, j⁷ai traite la solution du probleme sous forme finie, en faisant
+voir que les trois integrales des aires et l'integrale des forces vives se
+reduisent ἒι (les equations exprimees en l'argument princip-al comme
+variable independante, equations qui jouissent de la propriete d⁷etre de-
+pourvues de toute differentielle et de contenir le nombre dst de con-
+stantes d'integration. Ensuite j'ai indique, ἓι l'aide des limites varia-
+bles mentionnees ‹zi-(lessus, des moyens gener-aux de determiner les rela-
+Nuva Acta Reg. Soc. Sc. Ups. Ser. 111.
+

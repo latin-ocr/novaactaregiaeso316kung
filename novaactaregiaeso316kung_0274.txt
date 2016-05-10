@@ -1,0 +1,52 @@
+32 A. Bmmmz,
+
+dans le dernier saeteur les termes, except& le premier, ne donnent nais-
+sance ὲ, aucun terme indesspendant de .v; par suite la quantit& μ sera &gale
+au terme indnpendant de a· dans le dtssveloppement de l’expression
+
+—(1.†-‡cos „TI -ι- ἑὲ οοεὲη-μ-1 -4- . . .)C„÷1(.r).
+
+ 
+
+vaeloppons maintenant la fonction Οῃψάχ) ἀ’3ρτὲε la formule de
+MAGLAURIN, nous trouverons, que μ sera &gal au terme indupendant de
+α] dans l'expression
+
+-1(l 4-- eos E ⁴ -ff- ὲ 008² kL ἦ.. . ·)<Cn÷1(0) -ξ- 3 C'„÷2(O') -Ι- . . .
+«⁹⁶ η 41 ⁹24- 1
+
+„ir
+
+÷ ι’ῖρῒῗῖςὴ ÷ 1> 02⁶⁸>OE ‘) ³
+
+par suite nous aurona
+
+ 
+
+ἦ *οεςὶ15><,<)>ἶ ἢ oosvss-IQ)
+1.2...(n÷1) θυι-1
+
+ou, en employant de nouveau la formul& de MACLAURIN,
+
+(191) μ = - C (005 „fif-i.)
+
+n
+ou, d'aprks 1²&quation (95), 4¹
+
+(192) μ = <- ψ-1 -
+
+Par la substitution de cette valeur de la quantit& μ dans l'6qua-
+tion (185) nous obtiendrons
+
+lca
+
+π 81Υ12ἡ
+
+(193) Aa. =⁷ γ ῃ 4-”14 ¹ ‚
+
+et de lkssquation (177) nous duduirons ainsi la foi-mule approximative
+
+(194) 1 summm-3152 s1n2 Μξζχςοοεῖᾒπ )
+
+ce qui de'montre le them-&me suivant.
+

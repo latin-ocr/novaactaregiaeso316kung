@@ -1,0 +1,51 @@
+SUR L’EVALUATION APPROGHJ'EE DES INTEGRALES DEFINIES SIMPLES. 45
+
+The'orme XIV. Soit f(x) une fonction finie et continue de la va-
+riable Χ pour Χ Ξ 0, et de'sz'ynons par n un nombre entier positis et par
+Χ17 ΧΒ, . . . X„ les n moines du polyndme R„(x)‚ on aura Za formale ap-
+proximative
+
+Γ e>-2s·<x>‹1oe = Ξ Akfm) ,
+
+'⁴0
+
+οἲι les coefficients ΑΒ sont domze's par la formale
+
+AL. Ξ 1 Γ ΓΒΚ-τ) (2oe .
+R'„ (ask) υ 0 sc — xk
+
+ 
+
+ 
+
+Supposons‚ que l’on puisse d6velopper la fonction f(x) en se‘ffie
+de la forme
+
+(282) f(J;) = σο -Ι- ⁶1 x -ι- (³21:² -4- 03153 -†- . . .
+
+pour J,- g O, et d&signons par Δἰ l’erreur, qu'on commet en faisant usage
+
+de la formule d'approximation du thefforbme ρῐόοόᾶθῃίῑ, nous aurons
+d’aprbs le th&or<}me III
+
+(283) a„ = ’Ξ Κ ,
+οὺ les quantites ΚΓ sont ἁέῒθτῐῃὶῃέθε de la maniere suivante.
+
+Soit (λψς) le quotient obtenu en divisant la puissance ,τ’ par le
+polynssme RQ), on aura
+
+(284) Κ, = some-‘Bnffimwdoe .
+
+Pour les Valeurs du nombre r, qui satisfont aux indgafiffis
+(285) n Ξ r ξ 2η- 1 ,
+
+le degr& du quotient Qrspe) sera §videmment inf-§rieur ou &gal ἐι n— 1 ‚
+et'en appliquant la formule (274) ὲ l'6quation (284) nous en dffluirons
+
+(286) K, = ο
+
+pour ces valeurs du nombre 7²3 l’aefiquation (283) peut donc skerire
+
+(28⁷) η, = '²2⁶⁰ ΚΓ .
+r=2n
+

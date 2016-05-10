@@ -1,0 +1,52 @@
+24 GoRAN' DILLNER,
+
+(61) {g Ξ κςθ) ,
+
+οὺ la fonction χ(θ), comme cas particulier, pourra &tre constante.
+
+Remarque: I. La. necessite d⁷assigner ὲ la derivee ἐξ dans (60)
+une determination convenable, exprimee par l'equation (61) ou “Z—{⁹ =x(0>,
+
+(ZZZ , til-ee par
+
+derivation du systeme (60), se determinem par une equation qui n'est
+qu’une combinaison des equations du mouvement mises sous forme re-
+
+duite, et que par snite cette meme equation n'est pas distincte et qu'elle
+2
+
+sera manifeste si l⁷on observe que la seconde derivee
+
+ 
+
+ne pourra, en cette qualite, d’aucune maniere servir ὲ eliminer entre
+
+ 
+
+dt?
+
+16 systeme (60) et les equations du mouvement. La relaffion la plus
+simple entre l'argument principal et le temps, ἐι savoir θ = t, satisfait
+aux equations du mouvement3 mais, pour une consideration plus gene-
+rale, la relation (61) sera d’interet.
+
+Remarqne II. Pour 16 probleme des deux corps, considere comme
+cas limite de celui des N corps, il n'y a, comme nous le ven-ons plus
+tard, qu'un argument dependant n qui s’exprime, au moyen de l'equa—
+tion des aires, en fonction du temps,
+
+Μ oyens de determiner tes relations entre tes constantes des
+
+coordonnees et tes constantes d'inteyration.
+
+27. Puisque, dans 16 systeme mentionne ci-dessus des quatre equa-
+
+tions (60) depourvues de toute differentielle, la derivee ff d’une coor-
+
+donnee ,ff s'annule pour les valeurs particulieres
+
+(62) 0:0(⁰>÷E}(n=0‚ssi,‡2‚...>
+
+[ΠΟ 20, (59>]‚ &est—&dire pour ff atteignant une des deux limites p ou t]
+de ses oscillations isochrones en o, nous en conclurons que de ces
+

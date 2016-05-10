@@ -1,0 +1,49 @@
+28 A. BERGER,
+
+The'orc‘aeme VIII. Soit f (x) ane fonction finie et continue cle la va-
+riable x dans l’imervalle
+
+—1{x{1‚
+
+et ddsignons par n zm nombre entier positzfi on aura la formale appromi-
+mative
+
+(mc-ms).
+
+ 
+
+Supposons, que l’on puisse ἁθνθΙορρθι· la fonction f(-²²) en θθῑὶθ
+de la forme
+
+(162) f(w) = 00 ÷ (⁶¹:15 -μ 022² -ι- 03χὸ 4- . . ..
+
+pour - 1 Ξ x Ξ 1, et soit A„ l'erreur commise en employant la formale
+d’approximation sus-dite, on aura conform6ment au ῄὴθοῑθιῃθ ΙΙΙ
+
+(163) A„ = ἵ wlfr ‚
+
+*⁴1—
+
+''01‘1 les quantit& ΚΓ sont &termine-es d'aprbs les &quations (141) et (144)
+par la formule
+
+(164) ΚΓ = 21-22s1 (VI) Ωὲε) dm ‚
+
+ 
+
+οὺ l'on &signe par Qr(x) le quotient. obtenu en divisant la puissanoe ff
+par 1θ ροΙγΠὸῐΠθ du nieme degr& 21“”Οη(;ε). Pour les nombres entiers r,
+qui satisfont aux in&galit‹§s
+
+(165) ηΞνΞΞη-Ι,
+
+1θ degr6 du quotient Qrste) sera inf-§rieur ou &gal ὲ 72- l, et en appli—
+quant. la formule (117) au second membre de l'6quation (164), nous en
+obtiendrons
+
+(166) K, = 0
+
+pour ces valeurs de ν, et par suite nous de‘zduirons de l'6quation (163)
+
+(167) An = ’ΞΟ chr ‚ ⁷
+

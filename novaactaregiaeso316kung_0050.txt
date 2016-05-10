@@ -1,0 +1,56 @@
+18 MATTHS FALK,
+
+d) Ist endlich RQ) vom Im Grade, d. h. ΙΒἸ > Ο und
+RQ) = 4B'm 7
+
+so hat man 92 :93 = Ο, und die Funotion x ist folglioh in diesem Falle—
+eine rationale Funotion zwez'ten Grades von u.
+Also sind die Siitze vollstim'ndig bewiesen.
+
+VII.
+
+BERECHNUNG DER NULL- UND UNENDLICHKEITSSTELLEN DER ELLIPTI-
+SCHEN FUNCTION ZWEITEN GRADES, WELOHE EINER GEGEBENEN
+DIFFERENTIALGLEICHUNG VON ΗΕΒ FORM (15) GENUGE LEISTET. ·
+
+Da man aus den beiden Ietzten der Gleiehungen (26) die VVerthe
+der Invarianten (12 und 573 erhfflt, wird zuna'chst in bekannter Weise ein
+primitives Periodenpaar der Funotion a», vvenn sie doppelt periodisch ist,
+bereohnet.
+
+Auf folgende VVeise kann man dann auch fiir die Function ec
+vollstssmdige Systeme von Nun· und Unendlichkeitsstellen finden. Da
+nkimlich die Funotion alsclann darges‘cellt ist durch die Gleiehung
+
+h
+
+oe²“†vet]51÷
+
+7
+
+wo a, b, c bekannte Gressen sind und '2⁶0 eine willkn'rliche Constante
+bedeute's,⁷ so erhfflt man, wenn die Grbsse α von Nun verschieden ίεῒ,
+
+oem—w-ff—ffi
+
+(34) (Ἤ Ξ α gt) (tc - ΗΟ) — C
+
+ 
+
+ 
+
+7
+
+und, wenn a Ξ Ο ist,
+
+(35) „v Ξ W. h .
+ῳζιι - uo) — c
+
+ 
+
+Im ersten Falle bestimmt man aus den Gleiohungen
+
+f l)
+
+fflw=v—3‚ww=e
+

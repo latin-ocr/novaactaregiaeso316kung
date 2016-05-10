@@ -1,0 +1,63 @@
+Qssssss DEN GANG Dsss LICHTES DURCH EIN SYSTEMVON SPHAERISCHEN LINSEN. 13
+
+und entspreehende Ausdriicke fiir F,- und G,- in denen man stati. αἱ, (32,
+Li etc. neue Koefficienten cci-¹), [ἒξ-1), L‘ff' eto. einfiihrt. Fiir die Bestim-
+niung dieser Koeffieienten erhssilt man Differenzgleichungen, die samt-
+lich von folgenden] Typus sind
+
+(1⁷) ιω = < -- a.) Lc- ÷ 3 [με-ι) ÷ Ἰζ-
+
+(18) Lss¹÷³1 = (1 ῆι (Α.) 1:5¹> ψ (η. - 1 -- cli> 220> Li ÷ 1⁷5¹>
+
+wo Z und Tim bekannte Funktionen von ἱ bezeichnen.
+Wenn man nun in diesen Gleic·l1ungen z· gegen i÷l vertauscht, er-
+halt man zwei neue Gleiehungen‚ zwisohen denen und (17) Lffl eliminiert
+
+werden kann. Man wird in der Weise zu folgender Gleiehung gefiihrt
+
+(19) ῙΔῑψεΞΡῑᾸῑψι-Ῡ-’Ᾰῑ-ὶ-δι·
+
+wo pi, qi und Si bekannte Funktionen bezeichnen. Dies ist also die all-
+gemeine Form einer linearen Differenzgleiehung zweiter Ordmmg, deren
+Integral folgenderweise gesunden werden kann:
+
+Wir betraehten zuerst. die Gleichung ohne das Glied S,-
+
+(20) [ἢῆ-2 = 2⁹1· Lf÷1 - ‘It' L,- ν
+
+welche nach Division mit Lt÷2 unter Anwendnng der Bezeichnung
+
+Ε,-
+
+Li÷1
+
+(21) zz-
+
+ 
+
+die Form hat:
+
+(22) 1 = (μ- - ‹12-31) R
+und somit
+l l
+
+μ - <72- Ε- ² 102· — Q
+lm -— ΖΗ
+
+[Ji-1 - . ι
+
+(22 RQ =
+
+ 
+
+ 
+
+ 
+
+Hi ist somit· bekannt⁷ sobald eine von den Grbssen R Ζ. B. R,
+gegeben ist. Nachher haben wir:
+
+(23) Li = .
+
+ 
+

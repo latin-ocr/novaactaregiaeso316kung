@@ -1,0 +1,46 @@
+2 MA'rTHs sz,
+
+beliebigen Grades gethan, zwei Entartungen der doppelt periodischen
+Functionen zweiten Grades herleiten. Da wir die Ausdrl'icke dieser
+entarteten Functionen, wie sie aus der obigen Gleiohung (1) hervor-
+gehen, nfithig haben, miissen wir deren Herleitung ein wenig erbrtern.
+Man fiberzeugt sich leioht, dass es stets meglich ist, die Gr'dssen
+a1‚a2 , b1‚b2 in demjenigen Theile des Gebietes von u zu wahlen7 wel-
+cher aus den 4 vom Nullpunkte ausgehenden primitiven Periodenparal-
+lelogrammen gebildet ist, deren Periodenpaare beziehungsweise
+
+(2w‚2w')., (2ω’,-2ω)λ, ζ-Ξω, —2w')‚ (—2w'‚2w)
+
+sind, und zwar so, dass die Gleiohu11g(2)erffillt bleibt. Danu kann man
+durch eine Schlussweise‚ welche der von Herrn WEOERSTRASS im allge-
+⁴ meinen Falle angewendeten ganz analog ist, beweisen, dass, wenn ω’
+unendlich gross ist, der Gleichung (l) die Form
+
+m: (γι ‚2— (19(ρῇ ἡ «m (ι 4³¹)
+
+ 
+
+gegeben werden kann, wo A eine unendlich kleine (hesse,
+
+(3) 3:6⁰⁴ ν
+
+und pl ‚ ql ‚ 222 ‚ (ᾖ , ν1 ⁷ 31, ²²2 a 52 von a unabhengige endliche Gressen be-
+deuten, welche die Bedingung
+
+[212228192 - ‘Isth νινε = O
+erfiillen. Ffir w'= 00 ergiebt sich hieraus die einfaclz periodische Ent-
+artung der doppelt periodischen Functionen zweiten Grades‚ nfimlich
+
+(4) Ξ 5⁴3² ffl'zssy
+
+“7⁵² 4-1ῗί *f- Vl,
+wo zwischen den Constantem α , β ⁷ 5' ‚ α’ , β’ , γ’ die Gleichung
+
+(5) (ιγ’ - a'y = Ο
+
+stattfindet.
+
+Lasst man schliesslich in (4) die Periode Ξω unendlioh wachsen,
+so ergiebt sich eine neue Entartung der doppelt. periodischen Functionen
+zweiten Grades, mendich die rationale Function:
+

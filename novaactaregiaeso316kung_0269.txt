@@ -1,0 +1,65 @@
+SUB L'ssVALUATION APPRocffl'zE DEs [NTEGRALES Dl'szms SIMPLEs. 27
+
+suivant les puissanoes d50roissantes de ευ. Cela fflabli, d5x⁷eloppons le
+polynssme C'„(oe) du (rt—lyme degr& d'aprbs la formule de MACLAURIN, nous
+trouverons que λ sera &gal au terme 111ἀὲρθηᾶ311ῒ de m dans l’expression
+
+ 
+
+Tll(1÷-cos(2k*l)⁷⁷÷l 2cos-<2k-l)·⁷÷...)(C'„(0)-1-{C'''„(0).4....
+
+ 
+
+ 
+
+ 
+
+α. 2η ,τ 222
+÷ fg J) α zo»
+et par suite on aula
+(156) ⁷ =}(02‚ <0>÷0ss¹1<9200s 0³22ss ¹³³4
+C< (ο) η, (21- , 1>η
+÷ Tm. Tzu— ff ⁰⁰ 22 )
+
+ou⁷ en employant de nouveau la formul& de MACLAURIN‚
+
+(157) λ = ὲ 0 (008 (ΞΑ-ἶ)- nn >
+
+272
+
+ 
+
+Mais d’aprbs l’e'3q11ation (148) on a
+
+05ss> σφωε (ἒς-ψ’) „f <- ‚
+⁸ ⁹2 ὴ
+
+ 
+
+ 
+
+et par suite nous obtiendrons de l’e'aequation (157)
+
+(159) . λ ² mia-li 1) π ,
+
+271
+
+ 
+
+ 
+
+En introduisan‘c cette valem- de λ dans l⁷6=quation (151), nous en
+d6duirons
+
+(160) Ak- = ’- ,
+
+et de l'6quation (145) nous obtiendrons la formul& approximative
+
+(161) ¹f(„v)d.1- π z ”f(c OS (ms-mg)
+
+lvi- 7⁴² Ξ 72 ἢζι· 271»
+
+ 
+
+ 
+
